@@ -1,0 +1,90 @@
+.Education h1,
+.Education p,
+.Education h3,
+.Education h4 {
+    margin: 0px;
+}
+
+.Education {
+    padding: 27px 54px 54px 54px;
+}
+
+@media screen and (max-width: 425px) {
+    .Education {
+        padding: 27px;
+    }
+}
+
+.Education .Education_Title {
+    margin: 2rem 0rem;
+}
+
+.Education .Education_Title h1 {
+    font-size: clamp(1.25rem, 3vw, 2.5rem);
+}
+
+.Education .sections .each_section {
+    margin-bottom: 2rem;
+    border-bottom: 2px solid gray;
+}
+
+@media screen and (max-width: 500px) {
+    .Education .Education_Title {
+        margin: 1rem 0rem 0.5rem 0rem;
+    }
+
+    .Education .sections .each_section {
+        margin-bottom: 1rem;
+    }
+}
+
+.Education .sections .each_section .date {
+    margin-bottom: 0.25rem;
+    color: gray;
+}
+
+.Education .sections .each_section .location {
+    margin-bottom: 0.5rem;
+    color: gray;
+}
+
+.Education .sections .each_section h3 {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    margin-bottom: 0.25rem;
+}
+
+.Education .sections .each_section h3 .major {
+    font-size: clamp(0.625rem, 2vw, 1rem);
+}
+
+.Education .sections .each_section h4 {
+    font-size: clamp(0.825rem, 2vw, 1.125rem);
+    margin-bottom: 0.5rem;
+}
+
+.Education .sections .each_section p {
+    font-size: clamp(0.75rem, 2vw, 1rem);
+}
+
+.Education .sections .each_section .title,
+.Education .sections .each_section .supervisors {
+    margin-bottom: 0.25rem;
+    color: gray;
+}
+
+.Education .sections .each_section .title .focus,
+.Education .sections .each_section .supervisors .focus {
+    color: black;
+}
+
+.Education .sections a {
+    color: #7BAEA4;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.Education .sections a:hover {
+    background-color: #7BAEA4;
+    color: white;
+    padding: 0.1rem 0.1rem;
+}

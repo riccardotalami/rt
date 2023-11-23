@@ -1,0 +1,88 @@
+.Projects {
+    padding: 27px 54px 54px 54px;
+}
+
+@media screen and (max-width: 425px) {
+    .Projects {
+        padding: 27px;
+    }
+}
+
+.Projects h1,
+.Projects h3,
+.Projects p,
+.Projects ul {
+    margin: 0px;
+}
+
+.Projects .Projects_Title {
+    margin: 2rem 0rem;
+}
+
+.Projects .Projects_Title h1 {
+    font-size: clamp(1.25rem, 3vw, 2.5rem);
+}
+
+.Projects .Projects_Sections .each_project_section {
+    margin-bottom: 2rem;
+    border-bottom: 2px solid gray;
+}
+
+@media screen and (max-width: 500px) {
+    .Projects .Projects_Title {
+        margin: 1rem 0rem 0.5rem 0rem;
+    }
+
+    .Projects .Projects_Sections .each_project_section {
+        margin-bottom: 1rem;
+    }
+}
+
+.Projects .Projects_Sections .each_project_section .date {
+    margin-bottom: 0.25rem;
+    color: gray;
+}
+
+.Projects .Projects_Sections .each_project_section .location {
+    margin-bottom: 0.5rem;
+    color: gray;
+}
+
+.Projects .Projects_Sections .each_project_section h3 {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    margin-bottom: 0.25rem;
+}
+
+.Projects .Projects_Sections .each_project_section h4 {
+    font-size: clamp(0.825rem, 2vw, 1.125rem);
+    margin-bottom: 0.5rem;
+}
+
+.Projects .Projects_Sections .each_project_section p {
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    text-align: justify;
+}
+
+.Projects .Projects_Sections .each_project_section .title,
+.Projects .Projects_Sections .each_project_section .supervisors,
+.Projects .Projects_Sections .each_project_section .about {
+    margin-bottom: 0.25rem;
+    color: gray;
+}
+
+.Projects .Projects_Sections .each_project_section .title .focus,
+.Projects .Projects_Sections .each_project_section .supervisors .focus {
+    color: black;
+}
+
+.Projects .Projects_Sections .each_project_section a {
+    color: #7BAEA4;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.Projects .Projects_Sections .each_project_section a:hover {
+    background-color: #7BAEA4;
+    color: white;
+    padding: 0.1rem 0.1rem;
+}

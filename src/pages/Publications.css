@@ -1,0 +1,63 @@
+.Publications {
+    padding: 27px 54px 54px 54px;
+}
+
+@media screen and (max-width: 425px) {
+    .Publications {
+        padding: 27px;
+    }
+}
+
+.Publications h1,
+.Publications h3,
+.Publications p,
+.Publications ul {
+    margin: 0px;
+}
+
+.Publications .Publications_Title {
+    margin: 2rem 0rem;
+}
+
+.Publications .Publications_Title h1 {
+    font-size: clamp(1.25rem, 3vw, 2.5rem);
+}
+
+.Publications .Publications_Sections .individual_publication_section {
+    margin-bottom: 2rem;
+    border-bottom: 2px solid gray;
+}
+
+@media screen and (max-width: 500px) {
+    .Publications .Publications_Title {
+        margin: 1rem 0rem 0.5rem 0rem;
+    }
+
+    .Publications .Publications_Sections .individual_publication_section {
+        margin-bottom: 1rem;
+    }
+}
+
+.Publications .Publications_Sections .individual_publication_section h3 {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    margin-bottom: 0.25rem;
+}
+
+.Publications .Publications_Sections .individual_publication_section li {
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    text-align: justify;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+}
+
+.Publications .Publications_Sections .individual_publication_section a {
+    color: #7BAEA4;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.Publications .Publications_Sections .individual_publication_section a:hover {
+    background-color: #7BAEA4;
+    color: white;
+    padding: 0.1rem 0.1rem;
+}

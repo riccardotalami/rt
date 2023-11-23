@@ -1,0 +1,78 @@
+.Tools h1,
+.Tools p,
+.Tools h3,
+.Tools h4 {
+    margin: 0px;
+}
+
+.Tools {
+    padding: 27px 54px 54px 54px;
+}
+
+@media screen and (max-width: 425px) {
+    .Tools {
+        padding: 27px;
+    }
+}
+
+.Tools .Tools_Title {
+    margin: 2rem 0rem;
+}
+
+.Tools .Tools_Title h1 {
+    font-size: clamp(1.25rem, 3vw, 2.5rem);
+}
+
+.Tools .sections .each_section {
+    margin-bottom: 2rem;
+    border-bottom: 2px solid gray;
+}
+
+@media screen and (max-width: 500px) {
+    .Tools .Tools_Title {
+        margin: 1rem 0rem 0.5rem 0rem;
+    }
+
+    .Tools .sections .each_section {
+        margin-bottom: 1rem;
+    }
+}
+
+.Tools .sections .each_section {
+    display: flex;
+    flex-direction: column;
+}
+
+.Tools .sections .each_section h3 {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    margin-bottom: 0.5rem;
+}
+
+.Tools .sections .each_section p {
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    text-align: justify;
+}
+
+.Tools .sections .each_section .tool_image {
+    text-align: center;
+}
+
+.Tools .tool_image img {
+    width: 96%;
+    height: auto;
+    margin: 1rem;
+    border: 2px solid black;
+}
+
+.Tools .sections a {
+    color: #7BAEA4;
+    font-weight: bolder;
+    text-decoration: none;
+    display: inline-block; 
+}
+
+.Tools .sections a:hover {
+    background-color: #7BAEA4;
+    color: white;
+    padding: 0.1rem 0.1rem;
+}
