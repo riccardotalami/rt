@@ -23,9 +23,29 @@
     font-size: clamp(1.25rem, 3vw, 2.5rem);
 }
 
-.OTST .sections .second_section {
+.OTST .sections .first_section,
+.OTST .sections .second_section,
+.OTST .sections .third_section {
     margin-bottom: 2rem;
+    padding-bottom: 1rem;
     border-bottom: 2px solid gray;
+}
+
+.OTST .sections .first_section h3,
+.OTST .sections .third_section h3 {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    margin-bottom: 0.5rem;
+}
+
+.OTST .sections .first_section p,
+.OTST .sections .third_section p {
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    text-align: justify;
+    line-height: 1.5;
+}
+
+.OTST .sections .third_section p {
+    margin-bottom: 0.5rem;
 }
 
 @media screen and (max-width: 500px) {
@@ -33,7 +53,9 @@
         margin: 1rem 0rem 0.5rem 0rem;
     }
 
-    .OTST .sections .second_section {
+    .OTST .sections .first_section,
+    .OTST .sections .second_section,
+    .OTST .sections .third_section {
         margin-bottom: 1rem;
     }
 }
@@ -123,6 +145,11 @@
     font-size: smaller;
 }
 
+.OTST .sections .third_section img {
+    width: 100%;
+    border: 2px solid black;
+}
+
 @keyframes shake {
     0% {
         transform: translateX(0);
@@ -181,6 +208,19 @@
     background-color: #7BAEA4;
     color: white;
     padding: 0.1rem 0.1rem;
+}
+
+.OTST .third_section {
+    display: flex;
+    gap: 1rem;
+}
+
+.OTST .third_section .guidelines_text {
+    flex: 1;
+}
+
+.OTST .third_section .guidelines_image {
+    flex: 1;
 }
 
 @media screen and (max-width: 1025px) {
@@ -355,23 +395,8 @@
         gap: 0rem;
     }
 
-    .OTST .third_section .guidelines_text h3 {
-        font-size: calc(0.7 * 1.25rem);
-        margin-bottom: calc(0.7 * 1.65vmax);
-    }
-
     .OTST .third_section .guidelines_text ul {
         padding-left: calc(0.7 * 1rem);
-    }
-
-    .OTST .third_section .guidelines_text p {
-        font-size: calc(0.7 * 1rem);
-        margin-bottom: calc(0.7 * 1.65vmax);
-    }
-
-    .OTST .third_section .guidelines_text li {
-        font-size: calc(0.7 * 1rem);
-        margin-bottom: calc(0.7 * 0.75rem);
     }
 
     .OTST .third_section .guidelines_image img {
@@ -552,24 +577,8 @@
         font-size: calc(0.4 * 1rem);
     }
 
-
-    .OTST .third_section .guidelines_text h3 {
-        font-size: calc(0.4 * 1.25rem);
-        margin-bottom: calc(0.4 * 1.65vmax);
-    }
-
     .OTST .third_section .guidelines_text ul {
         padding-left: calc(0.4 * 1rem);
-    }
-
-    .OTST .third_section .guidelines_text p {
-        font-size: calc(0.4 * 1rem);
-        margin-bottom: calc(0.4 * 1.65vmax);
-    }
-
-    .OTST .third_section .guidelines_text li {
-        font-size: calc(0.4 * 1rem);
-        margin-bottom: calc(0.4 * 0.75rem);
     }
 
     .OTST .third_section .guidelines_image img {
@@ -753,23 +762,8 @@
         font-size: calc(0.3 * 1rem);
     }
 
-    .OTST .third_section .guidelines_text h3 {
-        font-size: calc(0.3 * 1.25rem);
-        margin-bottom: calc(0.3 * 1.65vmax);
-    }
-
     .OTST .third_section .guidelines_text ul {
         padding-left: calc(0.3 * 1rem);
-    }
-
-    .OTST .third_section .guidelines_text p {
-        font-size: calc(0.3 * 1rem);
-        margin-bottom: calc(0.3 * 1.65vmax);
-    }
-
-    .OTST .third_section .guidelines_text li {
-        font-size: calc(0.3 * 1rem);
-        margin-bottom: calc(0.3 * 0.75rem);
     }
 
     .OTST .third_section .guidelines_image img {
