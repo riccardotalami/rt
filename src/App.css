@@ -2,6 +2,7 @@
   margin: 0px;
   padding: 0px;
   font-family: 'Avenir Black', sans-serif;
+  -webkit-font-smoothing: antialiased;
 }
 
 .App {
