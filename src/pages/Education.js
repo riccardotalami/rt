@@ -13,7 +13,7 @@ function Education() {
                 <div className='each_section'>
                     <p className='date'>January 2019 - February 2022</p>
                     <p className='location'>Loughborough, United Kingdom</p>
-                    <h3>Doctor of Philosophy (PhD) in Building Science <span className='major'>(Building Performance Optimization)</span></h3>
+                    <h3>Doctor of Philosophy (PhD) in Building Science/Building Engineering <span className='major'>(Building Performance Optimization)</span></h3>
                     <h4>Loughborough University, School of Architecture, Building and Civil Engineering</h4>
                     <p className='title'><span className='focus'>Thesis title: </span><a href="https://doi.org/10.26174/thesis.lboro.21547701.v1" target="_blank">The sequential design optimization of building performance</a></p>
                     <p className='supervisors'><span className='focus'>Supervisors: </span>Prof. <a href="https://www.lboro.ac.uk/departments/abce/staff/jonathan-wright/" target="_blank">Jonathan Wright</a> and Dr. <a href="https://www.engineering.columbia.edu/faculty/bianca-howard" target="_blank">Bianca Howard</a></p>

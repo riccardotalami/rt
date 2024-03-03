@@ -7,9 +7,21 @@ function Teaching() {
         <div className='Teaching'>
             <NavBar />
             <div className='Teaching_Title'>
-                <h1>Teaching</h1>
+                <h1>Teaching and Supervisions</h1>
             </div>
             <div className='Teaching_Sections'>
+                <div className="individual_teaching_section">
+                    <h3>National University of Singapore <span className='city'>(Singapore)</span></h3>
+                    <ul>
+                        <li>Xudong Jia <span className='focus'>Master Student (October 2022 - current)</span></li>
+                        <li>Ilyas Dawoodjee <span className='focus'>Research Engineer (April 2022 - current)</span></li>
+                        <li>Xinhao Hu <span className='focus'>Visiting PhD Candidate (January 2023 - January 2024)</span></li>
+                        <li>Glenda Cheng <span className='focus'>Undergraduate Dissertation (June 2022 - March 2023)</span></li>
+                        <li>Sabrina Tay <span className='focus'>Undergraduate Dissertation (December 2022 - March 2023)</span></li>
+                        <li>Shirlynn Koh <span className='focus'>Undergraduate Dissertation (December 2022 - March 2023)</span></li>
+                        <li>Thomas Firsich <span className='focus'>Visiting Master Student (July 2022 - Septemeber 2022)</span></li>
+                    </ul>
+                </div>
                 <div className="individual_teaching_section">
                     <h3>Loughborough University <span className='city'>(United Kingdom)</span></h3>
                     <ul>
@@ -44,8 +56,6 @@ function Teaching() {
                         </li>
                     </ul>
                 </div>
-
-
             </div>
         </div >
     )

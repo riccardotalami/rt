@@ -32,6 +32,10 @@
     border-bottom: 2px solid gray;
 }
 
+.About .About_Sections .individual_about_section ul {
+    margin-bottom: clamp(0.75rem, 2vw, 1rem);
+}
+
 @media screen and (max-width: 500px) {
     .About .About_Title {
         margin: 1rem 0rem 0.5rem 0rem;
