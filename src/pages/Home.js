@@ -19,7 +19,7 @@ function Home() {
             </div>
             <div className="Home_Sections">
                 <div className="individual_home_section">
-                    <h3>Research Fellow at National University of Singapore (<a href='https://building-robotics-lab.github.io/brlab/#/' target='_blank'>BRL</a>)</h3>
+                    <h3>Research Fellow at National University of Singapore</h3>
                     <p>Riccardo Talami, PhD, is a Research Fellow at the National University of Singapore (NUS) - Department of the Built Environment. Riccardo is dedicated to advancing energy-efficient building design and operation to enhance occupant comfort and wellbeing. He advocates for data-driven approaches to empower building stakeholders in creating sustainable, comfortable, and efficient built environments. Riccardo brings expertise in Sustainable and Integrated Building Design, Performance-based Building Design, Building Performance Simulation and Optimization, Computational Design, Early-design Exploration and Informed Decision Making, Design Uncertainty and Robustness Analysis, Smart Buildings, HVAC Systems, Thermal Comfort, Daylighting, and Indoor Environmental Quality.</p>
                     <div className="links">
                         <div className='each_icon'>
