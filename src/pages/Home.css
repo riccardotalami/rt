@@ -72,18 +72,30 @@
 }
 
 .Home .Home_Sections .individual_home_section .links {
-    display: flex;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
     margin: 1rem 0rem 0.75rem 0rem;
-    gap: 1rem;
+    gap: clamp(0.25rem, 2vw, 1rem);
 }
 
-.Home .Home_Sections .individual_home_section .links>* {
+.Home .Home_Sections .individual_home_section .links .each_icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Home .Home_Sections .individual_home_section .links .each_icon a {
     display: inline-block;
     box-sizing: border-box;
     padding: clamp(0.25rem, 2vw, 0.75rem);
     border-radius: 50%;
     /* Makes it round */
     background-color: #7BAEA44A;
+}
+
+.Home .Home_Sections .individual_home_section .links .each_icon p {
+    text-align: center;
+    font-size: clamp(0.75rem, 2vw, 1rem);
 }
 
 .Home .Home_Sections .individual_home_section .links a {

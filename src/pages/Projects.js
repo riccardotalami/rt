@@ -11,6 +11,33 @@ function Projects() {
             </div>
             <div className="Projects_Sections">
                 <div className='each_project_section'>
+                    <p className='date'>June 2023 - current</p>
+                    <p className='location'>Singapore</p>
+                    <h3>Innovative building envelope systems</h3>
+                    <h4>National University of Singapore, College of Design and Engineering, The Built Environment</h4>
+                    <p className='about'>The research provides a framework for the integration of vertical greenery systems (VGS), heat-reflective paints, and façade shading systems.</p>
+                    <p className='supervisors'>Role: <span className='focus'>Collaborator</span></p>
+                </div>
+
+                <div className='each_project_section'>
+                    <p className='date'>September 2022 - current</p>
+                    <p className='location'>Singapore</p>
+                    <h3>Human-centric Indoor environmental quality (IEQ)</h3>
+                    <h4>National University of Singapore, College of Design and Engineering, The Built Environment</h4>
+                    <p className='about'>The research explores optimal positioning of IEQ sensing devices from an occupant-centric perspective in office settings, aiming to identify sensor placements that most accurately reflect the environmental conditions experienced by occupants.</p>
+                    <p className='supervisors'>Role: <span className='focus'>Project Leader</span></p>
+                </div>
+
+                <div className='each_project_section'>
+                    <p className='date'>January 2022 - current</p>
+                    <p className='location'>Singapore</p>
+                    <h3>Dynamic temperature setpoints and setbacks under weather and occupancy variability</h3>
+                    <h4>National University of Singapore, College of Design and Engineering, The Built Environment</h4>
+                    <p className='about'>The research evaluates the energy saving potential of dynamically adjusting room temperature setpoints an setbacks of HVAC systems based on varying outdoor weather and indoor occupancy conditions.</p>
+                    <p className='supervisors'>Role: <span className='focus'>Project Leader</span></p>
+                </div>
+
+                <div className='each_project_section'>
                     <p className='date'>January 2019 - February 2022</p>
                     <p className='location'>Loughborough, United Kingdom</p>
                     <h3>The sequential whole-building design approach for building performance</h3>
@@ -18,7 +45,7 @@ function Projects() {
                     <p className='about'>The research develops a novel whole-building design approach in the multi-objective optimization of building geometry, fabric, HVAC systems and controls to support the high-performance building design process. It then evaluates its effectiveness, reliability, and computational efficiency.</p>
                     <p className='supervisors'><span className='focus'>Supervisors: </span>Prof. <a href="https://www.lboro.ac.uk/departments/abce/staff/jonathan-wright/" target="_blank">Jonathan Wright</a> and Dr. <a href="https://www.engineering.columbia.edu/faculty/bianca-howard" target="_blank">Bianca Howard</a></p>
                 </div>
-                
+
                 <div className='each_project_section'>
                     <p className='date'>July 2018 - ?</p>
                     <p className='location'>Singapore</p>
