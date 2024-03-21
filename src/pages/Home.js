@@ -15,21 +15,59 @@ function Home() {
             <NavBar />
             <div className='Home_Title'>
                 <img src={RiccardoPic} alt="Logo" />
-                <h1>Riccardo Talami, PhD</h1>
+                <div>
+                    <h1>Riccardo Talami, PhD</h1>
+                    <div className='interests'>
+                        <p>Architectural Engineering</p>
+                        <p>Building Performance Simulation</p>
+                        <p>Building Optimisation</p>
+                        <p>Energy-Efficient Buildings</p>
+                        <p>Sustainable Architecture</p>
+                    </div>
+                </div>
             </div>
             <div className="Home_Sections">
                 <div className="individual_home_section">
                     <h3>Research Fellow at National University of Singapore</h3>
-                    <p>Riccardo Talami, PhD, is a Research Fellow at the National University of Singapore (NUS) - Department of the Built Environment. Riccardo is dedicated to advancing energy-efficient building design and operation to enhance occupant comfort and wellbeing. He advocates for data-driven approaches to empower building stakeholders in creating sustainable, comfortable, and efficient built environments. Riccardo brings expertise in Sustainable and Integrated Building Design, Performance-based Building Design, Building Performance Simulation and Optimization, Computational Design, Early-design Exploration and Informed Decision Making, Design Uncertainty and Robustness Analysis, Smart Buildings, HVAC Systems, Thermal Comfort, Daylighting, and Indoor Environmental Quality.</p>
+                    <p className='home_sentences'>Riccardo Talami, PhD, is a Research Fellow at the National University of Singapore (NUS) - Department of the Built Environment.</p>
+                    <p className='home_sentences'>Riccardo is dedicated to advancing energy-efficient building design and operation to enhance occupant comfort and wellbeing.</p>
+                    <p className='home_sentences'>He advocates for data-driven approaches to empower building stakeholders in creating sustainable, comfortable, and efficient built environments.</p>
+
+                    {/* <h3 className='interests'>Interests</h3>
+                    <ul>
+                        <li>Architectural Engineering</li>
+                        <li>Building Performance Simulation</li>
+                        <li>Building Optimisation</li>
+                        <li>Energy-Efficient Buildings</li>
+                        <li>Sustainable Architecture</li>
+                    </ul> */}
+
+                    <h3 className='expertise'>Expertise:</h3>
+                    <ul>
+                        <li>Sustainable and Integrated Building Design</li>
+                        <li>Performance-based Building Design</li>
+                        <li>Building Performance Simulation and Optimization</li>
+                        <li>Computational Design</li>
+                        <li>Evolutionary Computation</li>
+                        <li>Early-design Exploration and Informed Decision Making</li>
+                        <li>Design Uncertainty and Robustness Analysis</li>
+                        <li>Smart Buildings</li>
+                        <li>HVAC Systems</li>
+                        <li>Thermal Comfort</li>
+                        <li>Daylighting</li>
+                        <li>Indoor Environmental Quality</li>
+                    </ul>
+
+                    {/* <p className='home_sentences'>Riccardo brings expertise in Sustainable and Integrated Building Design, Performance-based Building Design, Building Performance Simulation and Optimization, Computational Design, Early-design Exploration and Informed Decision Making, Design Uncertainty and Robustness Analysis, Smart Buildings, HVAC Systems, Thermal Comfort, Daylighting, and Indoor Environmental Quality.</p> */}
                     <div className="links">
                         <div className='each_icon'>
-                            <a href={RiccardoResume} target="_blank" rel="noopener noreferrer">
+                            <a href={RiccardoResumeIndustry} target="_blank" rel="noopener noreferrer">
                                 <FontAwesomeIcon icon={faFileLines} />
                             </a>
                             <p>Academia CV</p>
                         </div>
                         <div className='each_icon'>
-                            <a href={RiccardoResumeIndustry} target="_blank" rel="noopener noreferrer">
+                            <a href={RiccardoResume} target="_blank" rel="noopener noreferrer">
                                 <FontAwesomeIcon icon={faFileLines} />
                             </a>
                             <p>Industry CV</p>

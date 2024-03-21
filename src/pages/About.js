@@ -28,7 +28,7 @@ function About() {
                         <li>Daylight Analysis: <span className="focus">Radiance (DIVA and Ladybug interfaces)</span></li>
                         <li>Parametric Modeling: <span className="focus">Rhinoceros/Grasshopper</span></li>
                         <li>Statistics and Data Science: <span className="focus">R</span></li>
-                        <li>Programming: <span className="focus"></span>Python, Java</li>
+                        <li>Programming: <span className="focus">Python, Java</span></li>
                         <li>Environmental Sensors: <span className="focus">HOBO products, DustTrak™ DRX Aerosol Monitor 8534, XL2 Audio and Acoustic Analyzer, VelociCalc Multi-Function Ventilation Meter 9565, RAE Systems ppbRAE 3000+ Portable Handheld VOC Monitor, Testo Luxmeter</span></li>
                         <li>Microcontrollers: <span className="focus">Raspberry Pi, Arduino</span></li>
                         <li>Architecture/Engineering Drafting and Modeling: <span className="focus">AutoCAD, ArchiCAD, Revit, SketchUp, Rhinoceros</span></li>
@@ -49,7 +49,7 @@ function About() {
                         <li>Spanish: <span className="focus">Elementary Proficiency</span></li>
                     </ul>
                 </div>
-                <div className="individual_about_section">
+                {/* <div className="individual_about_section">
                     <h3>Interests</h3>
                     <ul>
                         <li>Architectural Engineering</li>
@@ -58,7 +58,7 @@ function About() {
                         <li>Energy-Efficient Buildings</li>
                         <li>Sustainable Architecture</li>
                     </ul>
-                </div>
+                </div> */}
                 <div className="individual_about_section">
                     <h3>Awards</h3>
                     <ul>

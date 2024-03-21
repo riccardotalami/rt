@@ -32,6 +32,11 @@
     font-size: clamp(1rem, 2vw, 1.5rem);
 }
 
+.Teaching .Teaching_Sections h4 {
+    margin-bottom: 0.5rem;
+    font-size: clamp(0.75rem, 2vw, 1.25rem);
+}
+
 .Teaching .Teaching_Sections ul {
     margin-bottom: 1rem;
 }

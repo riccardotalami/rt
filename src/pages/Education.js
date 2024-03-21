@@ -22,7 +22,7 @@ function Education() {
                     <p className='date'>October 2014 - March 2017</p>
                     <p className='location'>Venice, Italy</p>
                     <h3>Master of Science in Architecture and Innovation <span className='major'>(Sustainable Design)</span></h3>
-                    <h4>Università Iuav di Venezia (IUAV), Architecture and Innovation</h4>
+                    <h4>University of California Berkely (UC Berkeley) and Università Iuav di Venezia (IUAV), Architecture and Innovation</h4>
                     <p className='title'><span className='focus'>Thesis title: </span>Recent trends in radiant system technology for heating and cooling: analysis of the factors that influence the built environment</p>
                     <p className='supervisors'><span className='focus'>Supervisors: </span><a href="https://www.researchgate.net/profile/Fred-Bauman" target="_blank">Fred Bauman</a>, PE (UC Berkeley), Prof. <a href="https://www.iuav.it/Ateneo1/docenti/docenti201/Romagnoni-/index.htm" target="_blank">Piercarlo Romagnoni</a> (IUAV) and <a href="" target="_blank">Simone Cappelletti</a> (STEAM Engineering)</p>
                 </div>

@@ -7,14 +7,15 @@ function Teaching() {
         <div className='Teaching'>
             <NavBar />
             <div className='Teaching_Title'>
-                <h1>Teaching and Supervisions</h1>
+                <h1>Teaching and Supervision</h1>
             </div>
             <div className='Teaching_Sections'>
                 <div className="individual_teaching_section">
-                    <h3>National University of Singapore <span className='city'>(Singapore)</span></h3>
+                    <h3>National University of Singapore - NUS <span className='city'>(Singapore)</span></h3>
+                    <h4>Supervision:</h4>
                     <ul>
-                        <li>Xudong Jia <span className='focus'>Master Student (October 2022 - current)</span></li>
-                        <li>Ilyas Dawoodjee <span className='focus'>Research Engineer (April 2022 - current)</span></li>
+                        <li>Xudong Jia <span className='focus'>Master Student (October 2022 - Current)</span></li>
+                        <li>Ilyas Dawoodjee <span className='focus'>Research Engineer (April 2022 - Current)</span></li>
                         <li>Xinhao Hu <span className='focus'>Visiting PhD Candidate (January 2023 - January 2024)</span></li>
                         <li>Glenda Cheng <span className='focus'>Undergraduate Dissertation (June 2022 - March 2023)</span></li>
                         <li>Sabrina Tay <span className='focus'>Undergraduate Dissertation (December 2022 - March 2023)</span></li>
@@ -36,7 +37,7 @@ function Teaching() {
                     </ul>
                 </div>
                 <div className="individual_teaching_section">
-                    <h3>Singapore University of Technology and Design <span className='city'>(Singapore)</span></h3>
+                    <h3>Singapore University of Technology and Design - SUTD <span className='city'>(Singapore)</span></h3>
                     <ul>
                         <li>
                             <p>20.112 Sustainable Design Option Studio 2</p>

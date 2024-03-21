@@ -33,9 +33,31 @@
     font-size: clamp(1.25rem, 3vw, 2.5rem);
 }
 
+.Home .Home_Title .interests {
+    display: flex;
+    gap: clamp(0.75rem, 2vw, 1rem);
+    font-size: clamp(0.5rem, 2vw, 0.75rem);
+    margin-top: clamp(0.75rem, 2vw, 1rem);
+}
+
+.Home .Home_Title .interests > * {
+    background-color: #7BAEA4;
+    padding: 0.25rem;
+    color: white;
+    text-align: center;
+}
+
 .Home .Home_Sections .individual_home_section {
     margin-bottom: 2rem;
     border-bottom: 2px solid gray;
+}
+
+.Home .Home_Sections .individual_home_section .home_sentences {
+    margin-bottom: 0.5rem;
+}
+
+.Home .Home_Sections .individual_home_section ul li:last-child {
+    margin-bottom: clamp(1rem, 2vw, 2rem);
 }
 
 @media screen and (max-width: 500px) {
@@ -55,8 +77,11 @@
 
 .Home .Home_Sections .individual_home_section h3 {
     margin-bottom: 0.5rem;
-    /* font-size: 1.5rem; */
     font-size: clamp(1rem, 2vw, 1.5rem);
+}
+
+.Home .Home_Sections .individual_home_section h3.expertise {
+    margin-top: clamp(0.75rem, 2vw, 1.5rem);
 }
 
 .Home .Home_Sections .individual_home_section h3 a {

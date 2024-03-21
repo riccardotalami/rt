@@ -33,7 +33,7 @@
 }
 
 .About .About_Sections .individual_about_section ul {
-    margin-bottom: clamp(0.75rem, 2vw, 1rem);
+    margin-bottom: clamp(2rem, 3vw, 3rem);
 }
 
 @media screen and (max-width: 500px) {

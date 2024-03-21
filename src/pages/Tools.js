@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom'
 
 import CBETool from './../components/Screenshot 2023-10-18 120757.jpg'
 import OTSTool from './../components/Screenshot 2023-10-18 130925.jpg'
+import SensorImage from './../components/sensorImage.png'
 
 function Tools() {
     return (
@@ -18,10 +19,10 @@ function Tools() {
                     <div className="title_description">
                         <h3>Indoor Environmental Quality sensor package v.2.0 (September 2023 - current)</h3>
                         <p>
-                            Designed and assembled 40 Arduino-based sensor packages that monitor 4 IEQ parameters continuously. Protoyped and 3D printed 40 sensor enclosures with reduced dimensions. Introduced fast-charging battery and Wi-Fi connection.
+                            Designed and assembled 40 Arduino-based sensor packages that monitor 9 Indoor Environmental Quality metrics continuously: Carbon dioxide, Particulate matter, Total volatile organic compound, Illuminance, Temperature, Humidity, and Sound continuously. Protoyped and 3D printed 40 sensor enclosures with reduced dimensions. Introduced fast-charging battery and Wi-Fi connection.
                         </p>
                         <div className="tool_image">
-                            &nbsp;
+                            <img src={SensorImage} alt="" />
                         </div>
                     </div>
                 </div>
@@ -51,7 +52,7 @@ function Tools() {
                     <div className="title_description">
                         <h3>CBE Radiant Systems Map (May 2017 - October 2017)</h3>
                         <p>
-                            The CBE Radiant Systems Map displays a database of over 400 commercial buildings using radiant cooling and heating in the world as online interactive map. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1LiVk7CwSdIlwZp5YX_hWasEkv0s&ll=-3.81666561775622e-14%2C2.758914717172047&z=1" target='_blank'>[link]</a>The tool has obtained 18,000 views so far.
+                            The CBE Radiant Systems Map displays a database of over 400 commercial buildings using radiant cooling and heating in the world as online interactive map. The tool has obtained 18,000 views so far. <a href="https://www.google.com/maps/d/u/0/viewer?mid=1LiVk7CwSdIlwZp5YX_hWasEkv0s&ll=-3.81666561775622e-14%2C2.758914717172047&z=1" target='_blank'>[link]</a>
                         </p>
                     </div>
                     <div className="tool_image">
