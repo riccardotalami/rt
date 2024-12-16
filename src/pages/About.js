@@ -11,7 +11,7 @@ function About() {
             </div>
             <div className="About_Sections">
                 <div className="individual_about_section">
-                <h3 className='expertise'>Expertise:</h3>
+                    <h3>Expertise</h3>
                     <ul>
                         <li>Sustainable and Integrated Building Design</li>
                         <li>Performance-based Building and Urban Design</li>
@@ -19,7 +19,7 @@ function About() {
                         <li>Computational Design</li>
                         <li>Artifical Intelligence</li>
                         <li>Numerical Optimization</li>
-                        <li>Early-design Exploration</li> 
+                        <li>Early-design Exploration</li>
                         <li>Multi-criteria Decision Making</li>
                         <li>Design Uncertainty and Robustness Analysis</li>
                         <li>Smart Built Environments</li>
@@ -27,7 +27,7 @@ function About() {
                         <li>Daylighting</li>
                         <li>Indoor Environmental Quality</li>
                     </ul>
-                    
+
                     <h3>Skills</h3>
                     <p>Transferrable Skills</p>
                     <ul>

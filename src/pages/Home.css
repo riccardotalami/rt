@@ -38,6 +38,7 @@
     gap: clamp(0.75rem, 2vw, 1rem);
     font-size: clamp(0.5rem, 2vw, 0.75rem);
     margin-top: clamp(0.75rem, 2vw, 1rem);
+    flex-wrap: wrap;
 }
 
 .Home .Home_Title .interests > * {
@@ -50,6 +51,12 @@
 .Home .Home_Sections .individual_home_section {
     margin-bottom: 2rem;
     border-bottom: 2px solid gray;
+}
+
+.Home .Home_Sections .individual_home_section .HomePageImage {
+    width: 100%;
+    height: 50%;
+    margin-bottom: 0.5rem;
 }
 
 .Home .Home_Sections .individual_home_section .home_sentences {

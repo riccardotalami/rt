@@ -8,6 +8,7 @@ import { faResearchgate, faLinkedin, faOrcid } from '@fortawesome/free-brands-sv
 import RiccardoResume from './../components/riccardo_resume.pdf'
 import RiccardoResumeIndustry from './../components/CV_Industry_Feb2024_RT.pdf'
 import RiccardoPic from './../components/image.jpg'
+import HomePageImage from './../components/HomePageImage.jpg'
 
 function Home() {
     return (
@@ -30,24 +31,11 @@ function Home() {
                 <div className="individual_home_section">
                     <h3>Research Fellow at National University of Singapore</h3>
                     <p className='home_sentences'><b>Riccardo Talami, PhD </b> is a Research Fellow at the <b> National University of Singapore (NUS) </b> – Department of Architecture, and the <b> Singapore-ETH Centre.</b> </p>
-
                     <p className='home_sentences'>Riccardo specializes in developing cutting-edge computational methods, workflows, and tools that transform <b> performance-based building and urban design.</b> His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, efficient, flexible, and climate-resilient built environments.</p>
-
                     <p className='home_sentences'>Riccardo is a strong advocate for <b> data-driven </b> building and urban design and operation, leveraging Computational Optimization and Artifical Intelligence to tackle the challenges of complex built environments.</p>
-                   
-
-                    {/* <h3 className='interests'>Interests</h3>
-                    <ul>
-                        <li>Architectural Engineering</li>
-                        <li>Building Performance Simulation</li>
-                        <li>Building Optimisation</li>
-                        <li>Energy-Efficient Buildings</li>
-                        <li>Sustainable Architecture</li>
-                    </ul> */}
-
-
-
-                    {/* <p className='home_sentences'>Riccardo brings expertise in Sustainable and Integrated Building Design, Performance-based Building Design, Building Performance Simulation and Optimization, Computational Design, Early-design Exploration and Informed Decision Making, Design Uncertainty and Robustness Analysis, Smart Buildings, HVAC Systems, Thermal Comfort, Daylighting, and Indoor Environmental Quality.</p> */}
+                    
+                    <img className='HomePageImage' src={HomePageImage} />
+                    
                     <div className="links">
                         <div className='each_icon'>
                             <a href={RiccardoResumeIndustry} target="_blank" rel="noopener noreferrer">
