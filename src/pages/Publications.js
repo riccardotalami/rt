@@ -13,7 +13,10 @@ function Publications() {
                 <div className="individual_publication_section">
                     <h3>Journals</h3>
                     <ul>
-                        <li><b>Talami, R.</b>, Hu, X., Dawoodjee, I. and Ghahramani, A. 2024.<a href="https://doi.org/10.1016/j.enbenv.2024.04.001" target="_blank">Examining Different Placement Strategies for Indoor Environmental Quality Sensors in Office Environments</a>. <i>Science and Technology for the Built Environment, Under Review</i></li>
+                        <li>Eshraghi, P., Dehnavi, A. N., Mirdamadi, M., <b> Talami, R.</b>, and Zomorodian Z. S. 2025.<a href="https://doi.org/10.1016/j.enbenv.2024.04.001" target="_blank"> Leveraging Explainable AI for Optimizing Urban Design: Enhancing Sky View Factor and Visibility</a>. <i>Energy and Built Enviroment, Under Review</i></li>
+                        <li>Eshraghi, P.,<b> Talami, R.</b>, Dehnavi, A. N., Mirdamadi, M. and Zomorodian Z. S. 2025.<a href="https://doi.org/10.1016/j.enbenv.2024.04.001" target="_blank"> Adopting Explainable-AI to investigate the impact of urban morphology design on energy and environmental performance in dry-arid climates</a>. <i>Advances in Building Energy Research, Under Review</i></li>
+                        <li><b>Talami, R.</b>, Wright, J., and Howard, B. 2025.<a href="https://doi.org/10.1016/j.enbenv.2024.04.001" target="_blank"> Evaluating the effectiveness, reliability and efficiency of a multi-objective sequential optimization approach for building performance design</a>. <i>Energy and Buildings, Under Review</i></li>
+                        <li><b>Talami, R.</b>, Hu, X., Dawoodjee, I. and Ghahramani, A. 2024.<a href="https://doi.org/10.1016/j.enbenv.2024.04.001" target="_blank"> Examining Different Placement Strategies for Indoor Environmental Quality Sensors in Office Environments</a>. <i>Science and Technology for the Built Environment, Under Review</i></li>
                         <li>Shah, I., Su, X.,<b> Talami, R.</b> and Ghahramani, A. 2024. <a href="https://doi.org/10.1016/j.enbenv.2024.04.001" target="_blank">Enhancing Building Envelopes: Parametric Analysis of Shading Systems for Opaque Facades and Their Comparison with Cool Paints</a>. <i>Energy and Built Environment</i></li>
                         <li><b>Talami, R.</b>, Dawoodjee, I. and Ghahramani, A., 2024. <a href="https://doi.org/10.1016/j.enbenv.2023.07.001" target="_blank">Demystifying energy savings from dynamic temperature setpoints under weather and occupancy variability</a>. <i>Energy and Built Environment, 5(6)</i>, 878-888</li>
                         <li><b>Talami, R.</b>, Dawoodjee, I. and Ghahramani, A., 2023. <a href="https://doi.org/10.3390/buildings13122998" target="_blank">Quantifying Energy Savings from Optimal Selection of HVAC Temperature Setpoints and Setbacks across Diverse Occupancy Rates and Patterns</a>. <i>Buildings, 13(12)</i>, 2998</li>
@@ -33,6 +36,7 @@ function Publications() {
                     <h3>Thesis</h3>
                     <ul>
                         <li><b>Talami, R.</b>, 2022. <a href="https://doi.org/10.26174/thesis.lboro.21547701.v1" target="_blank">The sequential design optimization of building performance.</a> (Doctoral dissertation, Loughborough University).</li>
+                        <li><b>Talami, R.</b>, 2017. <a href="https://doi.org/10.26174/thesis.lboro.21547701.v1" target="_blank">Recent trends in hydronic radiant system technology for heating and cooling.</a> (Master dissertation, University of California Berkeley/IUAV University of Venice).</li>
                     </ul>
                 </div>
                 <div className="individual_publication_section">
