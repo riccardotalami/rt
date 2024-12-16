@@ -13,6 +13,8 @@ function Publications() {
                 <div className="individual_publication_section">
                     <h3>Journals</h3>
                     <ul>
+                        <li>Shah, I., Su, X., Talami, R. and Ghahramani, A. 2024. <a href="https://doi.org/10.1016/j.enbenv.2024.04.001" target="_blank">Enhancing Building Envelopes: Parametric Analysis of 
+                        Shading Systems for Opaque Facades and Their Comparison with Cool Paints</a>. <i>Energy and Built Environment.
                         <li>Talami, R., Dawoodjee, I. and Ghahramani, A., 2023. <a href="https://doi.org/10.3390/buildings13122998" target="_blank">Quantifying Energy Savings from Optimal Selection of HVAC Temperature Setpoints and Setbacks across Diverse Occupancy Rates and Patterns</a>. <i>Buildings, 13(12)</i>, 2998</li>
                         <li>Talami, R., Dawoodjee, I. and Ghahramani, A., 2023. <a href="https://doi.org/10.1016/j.enbenv.2023.07.001" target="_blank">Demystifying energy savings from dynamic temperature setpoints under weather and occupancy variability</a>. <i>Energy and Built Environment</i></li>
                         <li>Talami, R. and Jakubiec, J.A., 2020. <a href="https://doi.org/10.1016/j.enbuild.2020.110177" target="_blank">Early-design sensitivity of radiant cooled office buildings in the tropics for building performance</a>. <i>Energy and Buildings, 223</i>, 110177</li>

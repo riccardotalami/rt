@@ -31,7 +31,7 @@ function Home() {
                     <h3>Research Fellow at National University of Singapore</h3>
                     <p className='home_sentences'><b>Riccardo Talami, PhD </b> is a Research Fellow at the <b> National University of Singapore (NUS) </b> – Department of Architecture, and the <b> Singapore-ETH Centre.</b> </p>
 
-                    <p className='home_sentences'>Riccardo specializes in developing cutting-edge computational methods, workflows, and tools that transform <b> performance-based building and urban design.</b> His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, and efficient built environments.</p>
+                    <p className='home_sentences'>Riccardo specializes in developing cutting-edge computational methods, workflows, and tools that transform <b> performance-based building and urban design.</b> His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, efficient, flexible, and climate-resilient built environments.</p>
 
                     <p className='home_sentences'>Riccardo is a strong advocate for <b> data-driven </b> building and urban design and operation, leveraging Computational Optimization and Artifical Intelligence to tackle the challenges of complex built environments.</p>
                    
