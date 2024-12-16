@@ -22,6 +22,16 @@ function Teaching() {
                         <li>Shirlynn Koh <span className='focus'>Undergraduate Dissertation (December 2022 - March 2023)</span></li>
                         <li>Thomas Firsich <span className='focus'>Visiting Master Student (July 2022 - Septemeber 2022)</span></li>
                     </ul>
+                    <h5>Supervision:</h5>
+                    <ul>
+                        <li>Xudong Jia <span className='focus'>Master Student (October 2022 - Current)</span></li>
+                        <li>Ilyas Dawoodjee <span className='focus'>Research Engineer (April 2022 - Current)</span></li>
+                        <li>Xinhao Hu <span className='focus'>Visiting PhD Candidate (January 2023 - January 2024)</span></li>
+                        <li>Glenda Cheng <span className='focus'>Undergraduate Dissertation (June 2022 - March 2023)</span></li>
+                        <li>Sabrina Tay <span className='focus'>Undergraduate Dissertation (December 2022 - March 2023)</span></li>
+                        <li>Shirlynn Koh <span className='focus'>Undergraduate Dissertation (December 2022 - March 2023)</span></li>
+                        <li>Thomas Firsich <span className='focus'>Visiting Master Student (July 2022 - Septemeber 2022)</span></li>
+                    </ul>
                 </div>
                 <div className="individual_teaching_section">
                     <h3>Loughborough University <span className='city'>(United Kingdom)</span></h3>
