@@ -45,22 +45,6 @@ function Home() {
                         <li>Sustainable Architecture</li>
                     </ul> */}
 
-                    <h3 className='expertise'>Expertise:</h3>
-                    <ul>
-                        <li>Sustainable and Integrated Building Design</li>
-                        <li>Performance-based Building Design</li>
-                        <li>Building Performance Simulation and Optimization</li>
-                        <li>Computational Design</li>
-                        <li>Evolutionary Computation</li>
-                        <li>Early-design Exploration and Informed Decision Making</li>
-                        <li>Design Uncertainty and Robustness Analysis</li>
-                        <li>Smart Buildings</li>
-                        <li>HVAC Systems</li>
-                        <li>Thermal Comfort</li>
-                        <li>Daylighting</li>
-                        <li>Indoor Environmental Quality</li>
-                    </ul>
-
                     {/* <p className='home_sentences'>Riccardo brings expertise in Sustainable and Integrated Building Design, Performance-based Building Design, Building Performance Simulation and Optimization, Computational Design, Early-design Exploration and Informed Decision Making, Design Uncertainty and Robustness Analysis, Smart Buildings, HVAC Systems, Thermal Comfort, Daylighting, and Indoor Environmental Quality.</p> */}
                     <div className="links">
                         <div className='each_icon'>
