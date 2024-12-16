@@ -33,7 +33,7 @@ function Home() {
 
                     <p className='home_sentences'>Riccardo specializes in developing cutting-edge computational methods, workflows, and tools that transform performance-based building and urban design. His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, and efficient built environments.</p>
 
-                    <p className='home_sentences'>Riccardo is a strong advocate for data-driven building and urban design and operation, leveraging Computational Optimization, Artifical Intelligence, and Machine Learning to tackle the challenges of complex built environments.</p>
+                    <p className='home_sentences'>Riccardo is a strong advocate for data-driven building and urban design and operation, leveraging Computational Optimization and Artifical Intelligence to tackle the challenges of complex built environments.</p>
                    
 
                     {/* <h3 className='interests'>Interests</h3>
