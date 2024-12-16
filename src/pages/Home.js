@@ -29,7 +29,7 @@ function Home() {
             <div className="Home_Sections">
                 <div className="individual_home_section">
                     <h3>Research Fellow at National University of Singapore</h3>
-                    <p className='home_sentences'>Riccardo Talami, PhD, is a Research Fellow at the National University of Singapore (NUS) - Department of the Built Environment.</p>
+                    <p className='home_sentences'>Riccardo Talami, PhD, is a Research Fellow at the National University of Singapore (NUS) - Department of Architecture and at the Singapore-ETH Centre.</p>
                     <p className='home_sentences'>Riccardo is dedicated to advancing energy-efficient building design and operation to enhance occupant comfort and wellbeing.</p>
                     <p className='home_sentences'>He advocates for data-driven approaches to empower building stakeholders in creating sustainable, comfortable, and efficient built environments.</p>
 
