@@ -18,11 +18,11 @@ function Home() {
                 <div>
                     <h1>Riccardo Talami, PhD</h1>
                     <div className='interests'>
-                        <p>Architectural Engineering</p>
+                        <p>Building Engineering</p>
                         <p>Building Performance Simulation</p>
-                        <p>Building Optimisation</p>
-                        <p>Energy-Efficient Buildings</p>
-                        <p>Sustainable Architecture</p>
+                        <p>Building and Urban Optimization</p>
+                        <p>Integrated Building Design</p>
+                        <p>Sustainable Building and Urban Design</p>
                     </div>
                 </div>
             </div>
