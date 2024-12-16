@@ -29,7 +29,7 @@ function Home() {
             <div className="Home_Sections">
                 <div className="individual_home_section">
                     <h3>Research Fellow at National University of Singapore</h3>
-                    <p className='home_sentences'>Riccardo Talami, PhD is a Research Fellow at the National University of Singapore (NUS) – Department of Architecture, and the Singapore-ETH Centre.</p>
+                    <p className='home_sentences'></b>Riccardo Talami, PhD</b> is a Research Fellow at the National University of Singapore (NUS) – Department of Architecture, and the Singapore-ETH Centre.</p>
 
                     <p className='home_sentences'>Riccardo specializes in developing cutting-edge computational methods, workflows, and tools that transform performance-based building and urban design. His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, and efficient built environments.</p>
 
@@ -44,6 +44,8 @@ function Home() {
                         <li>Energy-Efficient Buildings</li>
                         <li>Sustainable Architecture</li>
                     </ul> */}
+
+
 
                     {/* <p className='home_sentences'>Riccardo brings expertise in Sustainable and Integrated Building Design, Performance-based Building Design, Building Performance Simulation and Optimization, Computational Design, Early-design Exploration and Informed Decision Making, Design Uncertainty and Robustness Analysis, Smart Buildings, HVAC Systems, Thermal Comfort, Daylighting, and Indoor Environmental Quality.</p> */}
                     <div className="links">

@@ -14,15 +14,16 @@ function About() {
                 <h3 className='expertise'>Expertise:</h3>
                     <ul>
                         <li>Sustainable and Integrated Building Design</li>
-                        <li>Performance-based Building Design</li>
+                        <li>Performance-based Building and Urban Design</li>
                         <li>Building Performance Simulation and Optimization</li>
                         <li>Computational Design</li>
-                        <li>Evolutionary Computation</li>
-                        <li>Early-design Exploration and Informed Decision Making</li>
+                        <li>Artifical Intelligence</li>
+                        <li>Numerical Optimization</li>
+                        <li>Early-design Exploration</li> 
+                        <li>Multi-criteria Decision Making</li>
                         <li>Design Uncertainty and Robustness Analysis</li>
-                        <li>Smart Buildings</li>
+                        <li>Smart Built Environments</li>
                         <li>HVAC Systems</li>
-                        <li>Thermal Comfort</li>
                         <li>Daylighting</li>
                         <li>Indoor Environmental Quality</li>
                     </ul>
