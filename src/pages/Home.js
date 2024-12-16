@@ -29,9 +29,12 @@ function Home() {
             <div className="Home_Sections">
                 <div className="individual_home_section">
                     <h3>Research Fellow at National University of Singapore</h3>
-                    <p className='home_sentences'>Riccardo Talami, PhD, is a Research Fellow at the National University of Singapore (NUS) - Department of Architecture and at the Singapore-ETH Centre.</p>
-                    <p className='home_sentences'>Riccardo is dedicated to empowering building stakeholders with computational methods, workflows and tools to facilitate performance-based design generation, exploration, evaluation and decision-making.</p>
-                    <p className='home_sentences'>He advocates for data-driven approaches to empower building stakeholders in creating sustainable, comfortable, and efficient built environments.</p>
+                    <p className='home_sentences'>Riccardo Talami, PhD is a Research Fellow at the National University of Singapore (NUS) – Department of Architecture, and the Singapore-ETH Centre.
+
+                    Riccardo specializes in developing cutting-edge computational methods, workflows, and tools that transform performance-based building and urban design. His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, and efficient built environments.
+
+                    Riccardo is a strong advocate for data-driven building and urban design and operation, leveraging Computational Optimization, Artifical Intelligence, and Machine Learning to tackle the challenges of complex built environments.</p>
+                   
 
                     {/* <h3 className='interests'>Interests</h3>
                     <ul>
