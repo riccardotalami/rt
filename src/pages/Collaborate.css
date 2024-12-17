@@ -1,0 +1,33 @@
+.Collaborate {
+    padding: 27px 54px 54px 54px;
+}
+
+@media screen and (max-width: 425px) {
+    .Collaborate {
+        padding: 27px;
+    }
+}
+
+.Collaborate h1,
+.Collaborate h3,
+.Collaborate p,
+.Collaborate ul {
+    margin: 0px;
+}
+
+.Collaborate b {
+    font-weight: bolder;
+}
+
+.Collaborate .Collaborate_Title {
+    margin: 2rem 0rem;
+}
+
+.Collaborate .Collaborate_Title h1 {
+    font-size: clamp(1.25rem, 3vw, 2.5rem);
+}
+
+.Collaborate .Collaborate_Sections .individual_collaborate_section {
+    margin-bottom: 2rem;
+    border-bottom: 2px solid gray;
+}

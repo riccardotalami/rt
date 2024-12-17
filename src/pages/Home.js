@@ -3,12 +3,13 @@ import NavBar from '../components/NavBar'
 import './Home.css'
 import GoogleIcon from '../components/GoogleIcon'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faFileLines } from '@fortawesome/free-regular-svg-icons'
+import { faClock, faEnvelope, faFileLines } from '@fortawesome/free-regular-svg-icons'
 import { faResearchgate, faLinkedin, faOrcid } from '@fortawesome/free-brands-svg-icons'
 import RiccardoResume from './../components/riccardo_resume.pdf'
 import RiccardoResumeIndustry from './../components/CV_Industry_Feb2024_RT.pdf'
 import RiccardoPic from './../components/image.jpg'
-import HomePageImage from './../components/HomePageImage.jpg'
+import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
+import MyMap from '../components/MyMap'
 
 function Home() {
     return (
@@ -33,9 +34,7 @@ function Home() {
                     <p className='home_sentences'><b>Riccardo Talami, PhD </b> is a Research Fellow at the <b> National University of Singapore (NUS) </b> – Department of Architecture, and the <b> Singapore-ETH Centre.</b> </p>
                     <p className='home_sentences'>Riccardo specializes in developing cross-scale computational methods, workflows, and tools that transform <b> performance-based building and urban design.</b> His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, efficient, flexible, and climate-resilient built environments.</p>
                     <p className='home_sentences'>Riccardo is a strong advocate for <b> data-driven </b> building and urban design and operation, leveraging Computational Optimization and Artifical Intelligence to tackle the challenges of complex built environments.</p>
-                    
-                    <img className='HomePageImage' src={HomePageImage} />
-                    
+
                     <div className="links">
                         <div className='each_icon'>
                             <a href={RiccardoResumeIndustry} target="_blank" rel="noopener noreferrer">
@@ -72,6 +71,27 @@ function Home() {
                                 <FontAwesomeIcon icon={faOrcid} />
                             </a>
                             <p>ORCID</p>
+                        </div>
+                    </div>
+                </div>
+                <div className="individual_home_section">
+                    <h3>Contacts</h3>
+                    <div className='Contacts'>
+                        <div className='Contact_Links'>
+                            <p>
+                                <a href="mailto:rtalami@nus.edu.sg">
+                                    <FontAwesomeIcon icon={faEnvelope} /> rtalami@nus.edu.sg
+                                </a>
+                            </p>
+                            <p>
+                                <FontAwesomeIcon icon={faLocationDot} /> XXXXXXXXXX
+                            </p>
+                            <p>
+                                <FontAwesomeIcon icon={faClock} /> XXXX AM to XXXXX PM
+                            </p>
+                        </div>
+                        <div className='Contact_Location'>
+                            <MyMap location={[51.505, -0.09]} address={"Test Address"} />
                         </div>
                     </div>
                 </div>

@@ -176,3 +176,39 @@
 .Home .Home_Sections .individual_home_section li {
     font-size: clamp(0.75rem, 2vw, 1rem);
 }
+
+.Home .Home_Sections .individual_home_section .Contacts {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.Contact_Location {
+    grid-column: span 2; /* Span across two columns */
+  }
+
+.Home .Home_Sections .individual_home_section .Contacts .Contact_Links > * {
+    margin-bottom: clamp(0.5rem, 2vw, 1rem);
+    font-size: clamp(0.75rem, 2vw, 1.25rem) !important;
+}
+
+.Home .Home_Sections .individual_home_section .Contacts .Contact_Links > *:last-child {
+    margin-bottom: clamp(1rem, 2vw, 2rem);
+}
+
+.Home .Home_Sections .individual_home_section .Contacts .Contact_Links a {
+    text-decoration: none;
+    color: #7BAEA4;
+}
+
+.Home .Home_Sections .individual_home_section .Contacts .Contact_Links a:hover {
+    background-color: #7BAEA4;
+    color: white;
+    padding: 0.1rem 0.2rem;
+}
+
+@media screen and (max-width: 425px) {
+    .Home .Home_Sections .individual_home_section .Contacts {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

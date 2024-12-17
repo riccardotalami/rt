@@ -16,6 +16,9 @@ import Academic from './pages/Academic';
 import Service from './pages/Service';
 import Training from './pages/Training';
 import Directions from './pages/Directions';
+import Active from './pages/Active';
+import Previous from './pages/Previous';
+import Collaborate from './pages/Collaborate';
 
 function App() {
   return (
@@ -35,6 +38,9 @@ function App() {
           <Route path='/otst' element={<OTST />} />
           <Route path='/directions' element={<Directions />} />
           <Route path="/projects/:projectTitle" element={<ProjectsPage />} />
+          <Route path='/active' element={<Active />} /> 
+          <Route path='/previous' element={<Previous />} /> 
+          <Route path='/collaborate' element={<Collaborate />} /> 
         </Routes>
       </HashRouter>
     </div>

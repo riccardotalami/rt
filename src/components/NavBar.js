@@ -29,9 +29,12 @@ function NavBar() {
                             <Nav.Link as={Link} to="/service"><p>Service</p></Nav.Link>
                             <Nav.Link as={Link} to="/training"><p>Training</p></Nav.Link>
                         </NavDropdown>
-                        {/* <Nav.Link as={Link} to="/work_experience"><p>Experience</p></Nav.Link>
-                        <Nav.Link as={Link} to="/teaching"><p>Teaching</p></Nav.Link> */}
                         <Nav.Link as={Link} to="/education"><p>Education</p></Nav.Link>
+                        <NavDropdown title="Collaborations" id="basic-nav-dropdown">
+                            <Nav.Link as={Link} to="/active"><p>Active</p></Nav.Link>
+                            <Nav.Link as={Link} to="/previous"><p>Previous</p></Nav.Link>
+                            <Nav.Link as={Link} to="/collaborate"><p>Collaborate</p></Nav.Link>
+                        </NavDropdown>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

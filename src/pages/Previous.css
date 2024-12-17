@@ -1,0 +1,33 @@
+.Previous {
+    padding: 27px 54px 54px 54px;
+}
+
+@media screen and (max-width: 425px) {
+    .Previous {
+        padding: 27px;
+    }
+}
+
+.Previous h1,
+.Previous h3,
+.Previous p,
+.Previous ul {
+    margin: 0px;
+}
+
+.Previous b {
+    font-weight: bolder;
+}
+
+.Previous .Previous_Title {
+    margin: 2rem 0rem;
+}
+
+.Previous .Previous_Title h1 {
+    font-size: clamp(1.25rem, 3vw, 2.5rem);
+}
+
+.Previous .Previous_Sections .individual_previous_section {
+    margin-bottom: 2rem;
+    border-bottom: 2px solid gray;
+}
