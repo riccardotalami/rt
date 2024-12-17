@@ -1,7 +1,10 @@
 import React from 'react'
 import NavBar from '../components/NavBar'
 import './Directions.css'
+import Image1 from './../components/Image1.png'
+
 import PlaceHolderImage from './../components/PlaceHolderImage.jpg'
+
 function Directions() {
     return (
         <div className='Directions'>
@@ -14,7 +17,7 @@ function Directions() {
                 <p className='text'>Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here</p>
                 <p className='text'>Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here</p>
                 <p className='text'>Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here</p>
-                <img src={PlaceHolderImage} />
+                <img src={Image1} />
                 <p className='text'>Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here</p>
             </div>
         </div>

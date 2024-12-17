@@ -1,5 +1,7 @@
 import PlaceHolderImage from './PlaceHolderImage.jpg'
 
+import RiccardoImage from './Image1.png'
+
 const ProjectsPageData = [
     {
         "date": "June 2023 - Current",
@@ -11,7 +13,7 @@ const ProjectsPageData = [
         "data": [
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'image': PlaceHolderImage },
+            { 'image': RiccardoImage },
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
             { 'text': '<link: "www.google.com" SomeText Here> SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
             { 'image': PlaceHolderImage },
