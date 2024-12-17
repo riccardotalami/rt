@@ -1,17 +1,17 @@
 import React from 'react'
 import NavBar from '../components/NavBar'
-import './Work_Experience.css'
+import './Academic.css'
 
-function Work_Experience() {
+function Academic() {
     return (
-        <div className='Work_Experience'>
+        <div className='Academic'>
             <NavBar />
-            <div className='Work_Experience_Title'>
-                <h1>Work Experience</h1>
+            <div className='Academic_Title'>
+                <h1>Experience</h1>
             </div>
-            <div className="Work_Experience_Sections">
-                <div className="individual_work_experience_section">
-                    <h3>Academic Experience</h3>
+            <div className="Academic_Sections">
+                <div className="individual_academic_section">
+                    <h3>Academic</h3>
                     <ul>
                         <li>
                             <p><b>Research Fellow</b> (2024 - current)</p>
@@ -51,49 +51,9 @@ function Work_Experience() {
                         </li>
                     </ul>
                 </div>
-                <div className="individual_work_experience_section">
-                    <h3>External Academic Experience</h3>
-                    <ul>
-                        <li>
-                            <p><b>Committee Member - Electonic Communications for International Building Performance Simulation Association (IBPSA-Singapore)</b> (2024 - Current)</p>
-                        </li>
-                        <li>
-                            <p><b>Professional Committee for International Building Performance Simulation Association (IBPSA-Singapore)</b> (2024 - Current)</p>
-                        </li>
-                        <li>
-                            <p><b>Reviewer for Journal of Architectural Engineering</b> (2024 - Current)</p>
-                        </li>
-                        <li>
-                            <p><b>Reviewer for Building Simulation 2023: 18th Conference of IBPSA</b> (August 2022 - September 2023)</p>
-                            <p>4-6 September 2023, Shanghai (China) - Hybrid</p>
-                        </li>
-                        <li>
-                            <p><b>Reviewer for Building Simulation 2021: 17th Conference of IBPSA</b> (August 2020 - September 2021)</p>
-                            <p>1-3 September 2021, Bruges (Belgium)</p>
-                        </li>
-                        <li>
-                            <p><b>Reviewer for Building Simulation and Optimization 2020</b> (September 2019 - September 2020)</p>
-                            <p>21-22 September 2020, Loughborough (UK)</p>
-                        </li>
-                        <li>
-                            <p><b>Reviewer for Building Simulation 2019: 16th Conference of IBPSA</b> (August 2018 - September 2019)</p>
-                            <p>2-4 September 2019, Rome (Italy)</p>
-                        </li>
-                    </ul>
-                </div>
-                <div className="individual_work_experience_section">
-                    <h3>Architectural Experience</h3>
-                    <ul>
-                        <li>
-                            <p><b>Architectural Assistant</b> (September 2013 - February 2014)</p>
-                            <p>Architect Renzo Parise (Padova, Italy)</p>
-                            <p>Duties: <span className='focus'>Collaborated on the design and development of residential projects. Produced 2D and 3D drawings. Attended meetings with clients. Assisted with the materials selection.</span></p>
-                        </li>
-                    </ul>
-                </div>
             </div>
         </div>
     )
 }
 
-export default Work_Experience
+export default Academic

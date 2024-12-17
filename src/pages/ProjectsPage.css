@@ -77,27 +77,3 @@
     background-color: #7BAEA4;
     padding: 0.1rem 0.2rem;
 }
-
-/* 
-
-.ProjectsPage .ProjectsPage_Navigation .LinkTextDivp {
-    display: flex;
-    justify-content: left;
-    gap: 0.5rem
-}
-
-.ProjectsPage .ProjectsPage_Navigation .LinkTextDivn {
-    display: flex;
-    justify-content: right;
-    gap: 0.5rem
-}
-
-.ProjectsPage .ProjectsPage_Navigation .previousLink {
-    flex: 1;
-    text-align: left;
-}
-
-.ProjectsPage .ProjectsPage_Navigation .nextLink {
-    flex: 1;
-    text-align: right;
-} */

@@ -11,6 +11,11 @@ function About() {
             </div>
             <div className="About_Sections">
                 <div className="individual_about_section">
+                    <h3>Intro</h3>
+                    <p className='intro_paragraph'>Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph </p>
+
+                </div>
+                <div className="individual_about_section">
                     <h3>Expertise</h3>
                     <ul>
                         <li>Sustainable and Integrated Building Design</li>
@@ -28,7 +33,19 @@ function About() {
                         <li>Indoor Environmental Quality</li>
                     </ul>
 
-                    <h3>Skills</h3>
+
+                </div>
+
+                <div className="individual_about_section">
+                    <h3>Memberships</h3>
+                    <ul>
+                        <li>Point 1</li>
+                        <li>Point 2</li>
+                    </ul>
+                </div>
+
+                <div className="individual_about_section">
+                    <h3>Core Skills</h3>
                     <p>Transferrable Skills</p>
                     <ul>
                         <li>Excellent journal, conference paper, and technical report writing skills</li>
@@ -66,16 +83,7 @@ function About() {
                         <li>Spanish: <span className="focus">Elementary Proficiency</span></li>
                     </ul>
                 </div>
-                {/* <div className="individual_about_section">
-                    <h3>Interests</h3>
-                    <ul>
-                        <li>Architectural Engineering</li>
-                        <li>Building Performance Simulation</li>
-                        <li>Building Optimisation</li>
-                        <li>Energy-Efficient Buildings</li>
-                        <li>Sustainable Architecture</li>
-                    </ul>
-                </div> */}
+
                 <div className="individual_about_section">
                     <h3>Awards</h3>
                     <ul>

@@ -32,8 +32,12 @@
     border-bottom: 2px solid gray;
 }
 
+.About .About_Sections .individual_about_section .intro_paragraph {
+    margin-bottom: 2rem !important;
+}
+
 .About .About_Sections .individual_about_section ul {
-    margin-bottom: clamp(2rem, 3vw, 3rem);
+    margin-bottom: 2rem;
 }
 
 @media screen and (max-width: 500px) {
@@ -53,7 +57,6 @@
 
 .About .About_Sections .individual_about_section h3 {
     margin-bottom: 0.5rem;
-    /* font-size: 1.5rem; */
     font-size: clamp(1rem, 2vw, 1.5rem);
 }
 

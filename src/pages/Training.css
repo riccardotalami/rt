@@ -1,73 +1,77 @@
-.Teaching h1,
-.Teaching h3,
-.Teaching p,
-.Teaching ul {
-    margin: 0px;
-}
-
-.Teaching {
+.Training {
     padding: 27px 54px 54px 54px;
 }
 
 @media screen and (max-width: 425px) {
-    .Teaching {
+    .Training {
         padding: 27px;
     }
 }
 
-.Teaching .Teaching_Title {
+.Training h1,
+.Training h3,
+.Training p,
+.Training ul {
+    margin: 0px;
+}
+
+.Training b {
+    font-weight: bolder;
+}
+
+.Training .Training_Title {
     margin: 2rem 0rem;
 }
 
-.Teaching .Teaching_Title h1 {
+.Training .Training_Title h1 {
     font-size: clamp(1.25rem, 3vw, 2.5rem);
 }
 
-.Teaching .Teaching_Sections {
+.Training .Training_Sections {
     font-size: clamp(0.75rem, 2vw, 1rem);
 }
 
-.Teaching .Teaching_Sections h3 {
+.Training .Training_Sections h3 {
     margin-bottom: 0.5rem;
     font-size: clamp(1rem, 2vw, 1.5rem);
 }
 
-.Teaching .Teaching_Sections h4 {
+.Training .Training_Sections h4 {
     margin-bottom: 0.5rem;
     font-size: clamp(0.75rem, 2vw, 1.25rem);
 }
 
-.Teaching .Teaching_Sections ul {
+.Training .Training_Sections ul {
     margin-bottom: 2rem;
 }
 
-.Teaching .Teaching_Sections li {
+.Training .Training_Sections li {
     margin-bottom: 0.5rem;
 }
 
-.Teaching .Teaching_Sections li:last-child {
+.Training .Training_Sections li:last-child {
     margin-bottom: 0rem;
 }
 
-.Teaching .Teaching_Sections li .focus {
+.Training .Training_Sections li .focus {
     color: gray;
 }
 
-.Teaching .Teaching_Sections .individual_teaching_section h3 .city {
+.Training .Training_Sections .individual_training_section h3 .city {
     font-size: clamp(0.625rem, 2vw, 1rem);
 }
 
-.Teaching .Teaching_Sections .individual_teaching_section {
+.Training .Training_Sections .individual_training_section {
     margin-bottom: 2rem;
     border-bottom: 2px solid gray;
 }
 
 @media screen and (max-width: 500px) {
-    .Teaching .Teaching_Title {
+    .Training .Teaching_Title {
         margin: 1rem 0rem 0.5rem 0rem;
     }
 
-    .Teaching .Teaching_Sections .individual_teaching_section {
+    .Training .Training_Sections .individual_training_section {
         margin-bottom: 1rem;
     }
 }

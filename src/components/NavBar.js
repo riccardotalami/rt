@@ -18,12 +18,19 @@ function NavBar() {
                     <Nav className="me-auto">
                         <Nav.Link as={Link} to="/about"><p>About</p></Nav.Link>
                         <NavDropdown title="Research" id="basic-nav-dropdown">
-                            <Nav.Link as={Link} to="/publications"><p>Publications</p></Nav.Link>
+                            <Nav.Link as={Link} to="/directions"><p>Directions</p></Nav.Link>
                             <Nav.Link as={Link} to="/projects"><p>Projects</p></Nav.Link>
                             <Nav.Link as={Link} to="/tools"><p>Tools</p></Nav.Link>
+                            <Nav.Link as={Link} to="/publications"><p>Publications</p></Nav.Link>
                         </NavDropdown>
-                        <Nav.Link as={Link} to="/work_experience"><p>Work Experience</p></Nav.Link>
-                        <Nav.Link as={Link} to="/teaching"><p>Teaching</p></Nav.Link>
+                        <NavDropdown title="Experience" id="basic-nav-dropdown">
+                            <Nav.Link as={Link} to="/academic"><p>Academic</p></Nav.Link>
+                            <Nav.Link as={Link} to="/teaching"><p>Teaching</p></Nav.Link>
+                            <Nav.Link as={Link} to="/service"><p>Service</p></Nav.Link>
+                            <Nav.Link as={Link} to="/training"><p>Training</p></Nav.Link>
+                        </NavDropdown>
+                        {/* <Nav.Link as={Link} to="/work_experience"><p>Experience</p></Nav.Link>
+                        <Nav.Link as={Link} to="/teaching"><p>Teaching</p></Nav.Link> */}
                         <Nav.Link as={Link} to="/education"><p>Education</p></Nav.Link>
                     </Nav>
                 </Navbar.Collapse>

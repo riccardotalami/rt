@@ -10,9 +10,12 @@ import Projects from './pages/Projects';
 import Publications from './pages/Publications';
 import Teaching from './pages/Teaching';
 import Tools from './pages/Tools'
-import Work_Experience from './pages/Work_Experience';
 import OTST from './pages/OTST';
 import ProjectsPage from './pages/ProjectsPage';
+import Academic from './pages/Academic';
+import Service from './pages/Service';
+import Training from './pages/Training';
+import Directions from './pages/Directions';
 
 function App() {
   return (
@@ -26,8 +29,11 @@ function App() {
           <Route path='/publications' element={<Publications />} />
           <Route path='/teaching' element={<Teaching />} />
           <Route path='/tools' element={<Tools />} />
-          <Route path='/work_experience' element={<Work_Experience />} /> 
+          <Route path='/academic' element={<Academic />} /> 
+          <Route path='/service' element={<Service />} /> 
+          <Route path='/training' element={<Training />} /> 
           <Route path='/otst' element={<OTST />} />
+          <Route path='/directions' element={<Directions />} />
           <Route path="/projects/:projectTitle" element={<ProjectsPage />} />
         </Routes>
       </HashRouter>
