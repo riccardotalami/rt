@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from '../components/NavBar'
 import './Directions.css'
-import Design process from './../components/Design process.png'
+import Design_process from './../components/Design_process.png'
 
 import PlaceHolderImage from './../components/PlaceHolderImage.jpg'
 
@@ -19,7 +19,7 @@ function Directions() {
                 <p className='text'>2. Rapid and smart design exploration.</p>
                 <p className='text'>3. Data-and-performance-driven design evaluation.</p>
                 <p className='text'>4. Informed decision-making design selection.</p>
-                <img src={Design process} />
+                <img src={Design_process} />
                 <p className='text'>Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here Some Text here</p>
             </div>
         </div>
