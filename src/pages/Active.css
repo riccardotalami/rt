@@ -28,6 +28,56 @@
 }
 
 .Active .Active_Sections .individual_active_section {
-    margin-bottom: 2rem;
+    padding-bottom: 2rem;
     border-bottom: 2px solid gray;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+}
+
+.Active .Active_Sections .individual_active_section div:first-child {
+    grid-column: span 2;
+}
+
+.Active .Active_Sections .individual_active_section img {
+    width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+    .Active .Work_Experience_Title {
+        margin: 1rem 0rem 0.5rem 0rem;
+    }
+
+    .Active .Active_Sections .individual_active_section {
+        margin-bottom: 1rem;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .Active .Active_Sections .individual_active_section div:first-child {
+        grid-column: span 1;
+    }
+}
+
+.Active .Active_Sections .individual_active_section h3 {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    margin-bottom: 0.5rem;
+}
+
+.Active .Active_Sections .individual_active_section li {
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    text-align: justify;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+}
+
+.Active .Active_Sections .individual_active_section li:last-child {
+    margin-bottom: 0rem;
+}
+
+.Active .Active_Sections .individual_active_section ul {
+    margin-bottom: 2rem;
+}
+
+.Active li .focus {
+    color: gray;
 }

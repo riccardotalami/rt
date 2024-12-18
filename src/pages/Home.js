@@ -75,7 +75,6 @@ function Home() {
                     </div>
                 </div>
                 <div className="individual_home_section">
-                    <h3>Contacts</h3>
                     <div className='Contacts'>
                         <div className='Contact_Links'>
                             <p>
@@ -84,14 +83,14 @@ function Home() {
                                 </a>
                             </p>
                             <p>
-                                <FontAwesomeIcon icon={faLocationDot} /> XXXXXXXXXX
+                                <FontAwesomeIcon icon={faLocationDot} /> 1 College Ave E, CREATE Tower, Singapore 138602
                             </p>
                             <p>
-                                <FontAwesomeIcon icon={faClock} /> XXXX AM to XXXXX PM
+                                <FontAwesomeIcon icon={faClock} /> Monday to Friday - 9 am to 7 pm
                             </p>
                         </div>
                         <div className='Contact_Location'>
-                            <MyMap location={[51.505, -0.09]} address={"Test Address"} />
+                            <MyMap location={[1.306789, 103.773740]} address={"1 College Ave E, CREATE Tower, Singapore 138602"} />
                         </div>
                     </div>
                 </div>

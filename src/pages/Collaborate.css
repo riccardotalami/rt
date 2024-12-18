@@ -27,7 +27,25 @@
     font-size: clamp(1.25rem, 3vw, 2.5rem);
 }
 
-.Collaborate .Collaborate_Sections .individual_collaborate_section {
-    margin-bottom: 2rem;
-    border-bottom: 2px solid gray;
+.Collaborate .Collaborate_Sections img {
+    width: 80%;
+    margin: 0rem auto;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.Collaborate .Collaborate_Sections .text {
+    margin-bottom: 0.5rem;
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    text-align: justify;
+}
+
+.Collaborate .Collaborate_Sections a {
+    color: #7BAEA4;
+    text-decoration: none;
+}
+
+.Collaborate .Collaborate_Sections a:hover {
+    background-color: #7BAEA4;
+    color: white;
 }

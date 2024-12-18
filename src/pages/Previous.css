@@ -28,6 +28,56 @@
 }
 
 .Previous .Previous_Sections .individual_previous_section {
-    margin-bottom: 2rem;
+    padding-bottom: 2rem;
     border-bottom: 2px solid gray;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0.5rem;
+}
+
+.Previous .Previous_Sections .individual_previous_section div:first-child {
+    grid-column: span 2;
+}
+
+.Previous .Previous_Sections .individual_previous_section img {
+    width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+    .Previous .Work_Experience_Title {
+        margin: 1rem 0rem 0.5rem 0rem;
+    }
+
+    .Previous .Previous_Sections .individual_previous_section {
+        margin-bottom: 1rem;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .Previous .Previous_Sections .individual_previous_section div:first-child {
+        grid-column: span 1;
+    }
+}
+
+.Previous .Previous_Sections .individual_previous_section h3 {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    margin-bottom: 0.5rem;
+}
+
+.Previous .Previous_Sections .individual_previous_section li {
+    font-size: clamp(0.75rem, 2vw, 1rem);
+    text-align: justify;
+    margin-bottom: 1rem;
+    line-height: 1.5;
+}
+
+.Previous .Previous_Sections .individual_previous_section li:last-child {
+    margin-bottom: 0rem;
+}
+
+.Previous .Previous_Sections .individual_previous_section ul {
+    margin-bottom: 2rem;
+}
+
+.Previous li .focus {
+    color: gray;
 }

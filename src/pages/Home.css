@@ -41,7 +41,7 @@
     flex-wrap: wrap;
 }
 
-.Home .Home_Title .interests > * {
+.Home .Home_Title .interests>* {
     background-color: #7BAEA4;
     padding: 0.25rem;
     color: white;
@@ -183,15 +183,16 @@
 }
 
 .Contact_Location {
-    grid-column: span 2; /* Span across two columns */
-  }
+    grid-column: span 2;
+    margin-left: 1rem;
+}
 
-.Home .Home_Sections .individual_home_section .Contacts .Contact_Links > * {
+.Home .Home_Sections .individual_home_section .Contacts .Contact_Links>* {
     margin-bottom: clamp(0.5rem, 2vw, 1rem);
     font-size: clamp(0.75rem, 2vw, 1.25rem) !important;
 }
 
-.Home .Home_Sections .individual_home_section .Contacts .Contact_Links > *:last-child {
+.Home .Home_Sections .individual_home_section .Contacts .Contact_Links>*:last-child {
     margin-bottom: clamp(1rem, 2vw, 2rem);
 }
 
@@ -206,9 +207,13 @@
     padding: 0.1rem 0.2rem;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 575px) {
     .Home .Home_Sections .individual_home_section .Contacts {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
+    }
+
+    .Contact_Location {
+        margin-left: 0rem;
     }
 }
