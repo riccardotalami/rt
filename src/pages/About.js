@@ -12,7 +12,7 @@ function About() {
             <div className="About_Sections">
                 <div className="individual_about_section">
                     <h3>Intro</h3>
-                    <p className='intro_paragraph'>Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph Intro paragraph </p>
+                    <p className='intro_paragraph'>Welcome! I am <b>Riccardo Talami, PhD,</b> a Research Fellow with a joint appointment at the <b>National University of Singapore (NUS)</b> – Department of Architecture, and at the <b>Singapore-ETH Centre (SEC).</b> </p>
 
                 </div>
                 <div className="individual_about_section">
