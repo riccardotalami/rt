@@ -33,7 +33,7 @@ function About() {
                         <li>Multi-criteria Decision Making</li>
                         <li>Design Uncertainty and Robustness Analysis</li>
                         <li>Smart Built Environments</li>
-                        <li>HVAC Systems</li>
+                        <li>HVAC Systems Design and Controls</li>
                         <li>Daylighting</li>
                         <li>Indoor Environmental Quality</li>
                     </ul>

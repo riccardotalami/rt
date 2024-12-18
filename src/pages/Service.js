@@ -52,12 +52,16 @@ function Service() {
                     <h3>Presentations</h3>
                     <ul>
                         <li>
-                            <p><b>Multi-criteria robustness assessment of a sequential whole-building design optimization</b> (2022)</p>
-                            <p>IBPSA Conference in Louvain (Belgium)</p>
+                            <p><b>Performance-based building and urban design</b> (2024)</p>
+                            <p> BUDS Research Lab at the National University of Singapore (Singapore)</p>
+                        </li>
+                        <li>
+                            <p><b>Energy savings from dynamic temperature setpoints and setbacks</b> (2023)</p>
+                            <p>Funding agency at the National University of Singapore (Singapore)</p>
                         </li>
                         <li>
                             <p><b>Multi-criteria robustness assessment of a sequential whole-building design optimization</b> (2021)</p>
-                            <p>IBPSA Conference in Louvain (Belgium)</p>
+                            <p>IBPSA Conference in Bruges (Belgium)</p>
                         </li>
                         <li>
                             <p><b>A comparison between sequential and simultaneous whole-building design optimization for building performance</b> (2020)</p>

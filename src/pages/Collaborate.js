@@ -10,15 +10,22 @@ function Collaborate() {
                 <h1>Collaborate With Me</h1>
             </div>
             <div className="Collaborate_Sections">
-                <p className='text'>I am reimagining the design process by breaking traditional silos between disciplines and fostering <b>true interdisciplinary collaboration</b>. My research aims to empower built environment stakeholders and decision-makers—architects, engineers, urban planners, facilities managers, and government agencies—with <b>cross-scale computational methods, workflows, and tools</b>.</p>
-                <p className='text'>At the core of my research, I am envisioning a <b>dynamic, adaptive, and iterative design process</b>. Through this process, I aim to transform how design alternatives are generated, explored, evaluated and selected:</p>
+                <p className='text'>Are you exploring innovative solutions to shape sustainable, comfortable, smart, efficient, flexible, and climate-resilient built environments? Let's work together! I welcome opportunities to collaborate on research projects, tool development, and consultancy in areas such as:</p>
                 <ol>
-                    <li className='text'>Automated design generation.</li>
-                    <li className='text'>Rapid and smart design exploration.</li>
-                    <li className='text'>Data-and-performance-driven design evaluation.</li>
-                    <li className='text'>Informed decision-making design selection.</li>
+                    <li className='text'>Sustainable and Integrated Building Design</li>
+                    <li className='text'>Performance-based Building and Urban Design</li>
+                    <li className='text'>Computational Design</li>
+                    <li className='text'>Artifical Intelligence</li>
+                    <li className='text'>Numerical Optimization</li>
+                    <li className='text'>Early-design Exploration</li>
+                    <li className='text'>Multi-criteria Decision Making</li>
+                    <li className='text'>Design Uncertainty and Robustness Analysis</li>
+                    <li className='text'>Smart Built Environments</li>
+                    <li className='text'>HVAC Systems Design and Controls</li>
+                    <li className='text'>Daylighting</li>
+                    <li className='text'>Indoor Environmental Quality</li>
                 </ol>
-                <p className='text'>This enables built environment stakeholders to navigate complex decisions, bridging the gap between design ideas and actionable design solutions.</p>
+                <p className='text'>Whether you are from academia, industry, or government, I bring expertise in developing methodologies, workflows, and tools to tackle complex challenges in the built environment. Feel free to reach out to discuss potential partnerships, research initiatives, or innovative ideas to advance our shared goals.</p>
             </div>
         </div>
     )
