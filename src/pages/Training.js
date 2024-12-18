@@ -96,8 +96,16 @@ function Training() {
                     <h3>Events</h3>
                     <ul>
                         <li>
-                            <p><b>Bolded Text Here</b> (Date Here)</p>
-                            <p>Location Here</p>
+                            <p><b>Doctoral College Summer Showcase</b> (2020)</p>
+                            <p>Loughborough University (UK)</p>
+                        </li>
+                        <li>
+                            <p><b>Research conference 2019 – Visibility and Impact</b> (2019)</p>
+                            <p>Loughborough University (UK)</p>
+                        </li>
+                        <li>
+                            <p><b>Doctoral College Summer Showcase</b> (2019)</p>
+                            <p>Loughborough University (UK)</p>
                         </li>
                     </ul>
                 </div>
