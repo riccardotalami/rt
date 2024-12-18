@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rt/static/css/main.149d7155.css",
-    "main.js": "/rt/static/js/main.3a10c10e.js",
+    "main.js": "/rt/static/js/main.1336e1fe.js",
     "static/media/image.jpg": "/rt/static/media/image.2d093266ab1817ce04f6.jpg",
     "static/media/OTSToutput_example2.png": "/rt/static/media/OTSToutput_example2.0ad7b46d87573c525439.png",
     "static/media/sensorImage.png": "/rt/static/media/sensorImage.256369d360ece3c7e200.png",
@@ -11,6 +11,7 @@
     "static/media/Design_process.png": "/rt/static/media/Design_process.11158bce8f330feafa26.png",
     "static/media/CV_Industry_Feb2024_RT.pdf": "/rt/static/media/CV_Industry_Feb2024_RT.85b1f43463b8afbd9284.pdf",
     "static/media/SquareLogo2-removebg-preview.png": "/rt/static/media/SquareLogo2-removebg-preview.9c2a846e628a424c5993.png",
+    "static/media/Concordia_University.png": "/rt/static/media/Concordia_University.d094dd02f2abcf2bbf91.png",
     "static/media/Design_innovative.png": "/rt/static/media/Design_innovative.8db835f6915000df7aaf.png",
     "static/media/riccardo_resume.pdf": "/rt/static/media/riccardo_resume.4e9dc4656e5b681dda09.pdf",
     "static/media/OTSToutput_example3.png": "/rt/static/media/OTSToutput_example3.d6c581c2e21c9d720c4e.png",
@@ -18,10 +19,10 @@
     "static/media/PlaceHolderImage.jpg": "/rt/static/media/PlaceHolderImage.f791c3219e575bd859c8.jpg",
     "index.html": "/rt/index.html",
     "main.149d7155.css.map": "/rt/static/css/main.149d7155.css.map",
-    "main.3a10c10e.js.map": "/rt/static/js/main.3a10c10e.js.map"
+    "main.1336e1fe.js.map": "/rt/static/js/main.1336e1fe.js.map"
   },
   "entrypoints": [
     "static/css/main.149d7155.css",
-    "static/js/main.3a10c10e.js"
+    "static/js/main.1336e1fe.js"
   ]
 }
