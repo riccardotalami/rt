@@ -71,9 +71,14 @@ function Teaching() {
                     <h3>Guest Lectures</h3>
                     <ul>
                         <li>
-                            <p>Department of xxx</p>
-                            <p>Role: xxx <span className="focus">(Date)</span></p>
-                            <p>National University of Singapore - NUS (Singapore)</p>
+                            <p>Center for the Energy Resilience and the Built Environment (ERBE)</p>
+                            <p>Title: Performance-based building design in visual coding environment <span className="focus">(2021)</span></p>
+                            <p>Loughborough University (United Kingdom)</p>
+                        </li>
+                        <li>
+                            <p>Center for the Energy Resilience and the Built Environment (ERBE)</p>
+                            <p>Title:The role of Parametric Design, Building Performance Simulation and Optimization in Performance-based building design <span className="focus">(2020)</span></p>
+                            <p>Loughborough University (United Kingdom)</p>
                         </li>
                     </ul>
                 </div>
