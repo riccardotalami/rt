@@ -30,7 +30,6 @@ function Home() {
             </div>
             <div className="Home_Sections">
                 <div className="individual_home_section">
-                    <h3>Research Fellow at National University of Singapore</h3>
                     <p className='home_sentences'><b>Riccardo Talami, PhD </b> is a Research Fellow at the <b> National University of Singapore (NUS) </b> – Department of Architecture, and the <b> Singapore-ETH Centre.</b> </p>
                     <p className='home_sentences'>Riccardo specializes in developing cross-scale computational methods, workflows, and tools that transform <b> performance-based building and urban design.</b> His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, efficient, flexible, and climate-resilient built environments.</p>
                     <p className='home_sentences'>Riccardo is a strong advocate for <b> data-driven </b> building and urban design and operation, leveraging Computational Optimization and Artifical Intelligence to tackle the challenges of complex built environments.</p>
@@ -83,14 +82,14 @@ function Home() {
                                 </a>
                             </p>
                             <p>
-                                <FontAwesomeIcon icon={faLocationDot} /> 1 College Ave E, CREATE Tower, Singapore 138602
+                                <FontAwesomeIcon icon={faLocationDot} /> 1 College Avenue, CREATE Tower, Singapore 138602
                             </p>
                             <p>
                                 <FontAwesomeIcon icon={faClock} /> Monday to Friday - 9 am to 7 pm
                             </p>
                         </div>
                         <div className='Contact_Location'>
-                            <MyMap location={[1.306789, 103.773740]} address={"1 College Ave E, CREATE Tower, Singapore 138602"} />
+                            <MyMap location={[1.306789, 103.773740]} address={"1 College Avenue, CREATE Tower, Singapore 138602"} />
                         </div>
                     </div>
                 </div>
