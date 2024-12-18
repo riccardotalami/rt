@@ -13,15 +13,15 @@ function About() {
                 <div className="individual_about_section">
                     <h3>Intro</h3>
                     <p className='intro_paragraph'>Welcome! I am <b>Riccardo Talami, PhD,</b> a Research Fellow with a joint appointment at the <b>National University of Singapore (NUS)</b> – Department of Architecture, and at the <b>Singapore-ETH Centre (SEC).</b> </p>
-                    <p className='intro_paragraph'>My research lies at the intersection of <b>Building Science</b>,<b>Architecture</b>,<b>Engineering</b>, and <b>Operations Research.</b></p>
-                    <p className='intro_paragraph'>My main research areas include <b>Performance-based Building and Urban Design</b>,<b>Building Performance Simulation and Optimization</b>, and <b>Sustainable and Integrated Building Design.</b></p>
+                    <p className='intro_paragraph'>My research lies at the intersection of <b>Building Science</b>, <b>Architecture</b>, <b>Engineering</b>, and <b>Operations Research.</b></p>
+                    <p className='intro_paragraph'>My main research areas include <b>Performance-based Building and Urban Design</b>, <b>Building Performance Simulation and Optimization</b>, and <b>Sustainable and Integrated Building Design.</b></p>
                     <p className='intro_paragraph'>My research outcomes are mainly based on original research conducted via <b>computer simulations, laboratory and field studies.</b> </p>
                     <p className='intro_paragraph'>The aim of my research is to <b>empower building and urban stakeholders</b> to shape sustainable, comfortable, smart, efficient, flexible, and climate-resilient built environments.</p>
                     <p className='intro_paragraph'>I hold a Ph.D. in Architectural Engineering/Building Science from Loughborough University (UK), a Master of Science (M.Sc.) in Sustainable Building Design, and a Bachelor of Architecture from the University IUAV of Venice, Italy. </p>
                     <p className='intro_paragraph'>This website is a space where I share my work, research insights, and resources. Whether you are an academic, professional, or enthusiast, I invite you to explore and join the conversation on shaping the future of built environments. </p>
                 </div>
                 <div className="individual_about_section">
-                    <h3>Expertise</h3>
+                    <h3>Interests</h3>
                     <ul>
                         <li>Sustainable and Integrated Building Design</li>
                         <li>Performance-based Building and Urban Design</li>
@@ -44,8 +44,8 @@ function About() {
                 <div className="individual_about_section">
                     <h3>Memberships</h3>
                     <ul>
-                        <li>Point 1</li>
-                        <li>Point 2</li>
+                        <li>IBPSA-Singapore Committee Member - Electonic Communications</li>
+                        <li>Professional Committee for International Building Performance Simulation Association (IBPSA-Singapore)</li>
                     </ul>
                 </div>
 
