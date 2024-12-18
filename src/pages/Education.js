@@ -20,7 +20,7 @@ function Education() {
                 </div>
                 <div className='each_section'>
                     <p className='date'>2014 - 2017</p>
-                    <p className='location'>Venice, Italy</p>
+                    <p className='location'>Venice, Italy and Berkeley, California</p>
                     <h3>Master of Science in Architecture and Innovation <span className='major'>(Sustainable Design)</span></h3>
                     <h4>University of California Berkely (UC Berkeley) and Università Iuav di Venezia (IUAV), Architecture and Innovation</h4>
                     <p className='title'><span className='focus'>Thesis title: </span>Recent trends in radiant system technology for heating and cooling: analysis of the factors that influence the built environment</p>
