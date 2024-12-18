@@ -33,6 +33,10 @@
 }
 
 .About .About_Sections .individual_about_section .intro_paragraph {
+    margin-bottom: 0.5rem !important;
+}
+
+.About .About_Sections .individual_about_section .intro_paragraph:last-child {
     margin-bottom: 2rem !important;
 }
 
