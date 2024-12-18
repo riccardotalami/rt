@@ -49,11 +49,31 @@ function Service() {
                     </ul>
                 </div>
                 <div className="individual_service_section">
-                    <h3>Events</h3>
+                    <h3>Presentations</h3>
                     <ul>
                         <li>
-                            <p><b>Text Here</b> (Date Here)</p>
-                            <p>Location Here</p>
+                            <p><b>Multi-criteria robustness assessment of a sequential whole-building design optimization</b> (2022)</p>
+                            <p>IBPSA Conference in Louvain (Belgium)</p>
+                        </li>
+                        <li>
+                            <p><b>Multi-criteria robustness assessment of a sequential whole-building design optimization</b> (2021)</p>
+                            <p>IBPSA Conference in Louvain (Belgium)</p>
+                        </li>
+                        <li>
+                            <p><b>A comparison between sequential and simultaneous whole-building design optimization for building performance</b> (2020)</p>
+                            <p>IBPSA - UK Conference in Loughborough (UK)</p>
+                        </li>
+                        <li>
+                            <p><b>The sequential design optimization of building performance</b> (2020)</p>
+                            <p>Funding agency at Loughborough University (UK)</p>
+                        </li>
+                        <li>
+                            <p><b> Sensitivity of design parameters on energy, system and comfort performances for radiant cooled office buildings in the tropics.</b> (2019)</p>
+                            <p> IBPSA Conference in Rome (Italy)</p>
+                        </li>
+                        <li>
+                            <p><b>The sequential design optimization of building performance</b> (2019)</p>
+                            <p>Doctoral Seminar at Loughborough University (UK)</p>
                         </li>
                     </ul>
                 </div>

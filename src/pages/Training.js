@@ -93,7 +93,7 @@ function Training() {
                     </ul>
                 </div>
                 <div className="individual_training_section">
-                    <h3>XXXXXX</h3>
+                    <h3>Events</h3>
                     <ul>
                         <li>
                             <p><b>Bolded Text Here</b> (Date Here)</p>
