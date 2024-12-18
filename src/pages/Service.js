@@ -41,7 +41,10 @@ function Service() {
                             <p><b>Committee Member - Electonic Communications for International Building Performance Simulation Association (IBPSA-Singapore)</b> (2024 - Current)</p>
                         </li>
                         <li>
-                            <p><b>Professional Committee for International Building Performance Simulation Association (IBPSA-Singapore)</b> (2024 - Current)</p>
+                            <p><b>Professional Committee - International Building Performance Simulation Association (IBPSA-Singapore)</b> (2024 - Current)</p>
+                        </li>
+                        <li>
+                            <p><b>Student Member - International Building Performance Simulation Association (IBPSA-United Kingdom)</b> (2019 - 2022)</p>
                         </li>
                     </ul>
                 </div>
@@ -49,7 +52,7 @@ function Service() {
                     <h3>Events</h3>
                     <ul>
                         <li>
-                            <p><b>Bolded Text Here</b> (Date Here)</p>
+                            <p><b>Text Here</b> (Date Here)</p>
                             <p>Location Here</p>
                         </li>
                     </ul>

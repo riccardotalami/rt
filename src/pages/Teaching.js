@@ -72,12 +72,12 @@ function Teaching() {
                     <ul>
                         <li>
                             <p>Center for the Energy Resilience and the Built Environment (ERBE)</p>
-                            <p>Title: Performance-based building design in visual coding environment <span className="focus">(2021)</span></p>
+                            <p>Title: Performance-based building design in visual coding environments <span className="focus">(2021)</span></p>
                             <p>Loughborough University (United Kingdom)</p>
                         </li>
                         <li>
                             <p>Center for the Energy Resilience and the Built Environment (ERBE)</p>
-                            <p>Title:The role of Parametric Design, Building Performance Simulation and Optimization in Performance-based building design <span className="focus">(2020)</span></p>
+                            <p>Title: The role of Parametric Design, Building Performance Simulation and Optimization in Performance-based building design <span className="focus">(2020)</span></p>
                             <p>Loughborough University (United Kingdom)</p>
                         </li>
                     </ul>

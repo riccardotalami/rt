@@ -14,19 +14,23 @@ function Training() {
                     <h3>Conferences</h3>
                     <ul>
                         <li>
-                            <p><b>Building Simulation 2023: 18th Conference of IBPSA</b> (August 2022 - September 2023)</p>
+                            <p><b>International Conference on Resilient Systsems</b> </p>
+                            <p>28-30 August 2024, Singapore</p>
+                        </li>
+                        <li>
+                            <p><b>Building Simulation 2023: 18th Conference of IBPSA</b> </p>
                             <p>4-6 September 2023, Shanghai (China) - Hybrid</p>
                         </li>
                         <li>
-                            <p><b>Building Simulation 2021: 17th Conference of IBPSA</b> (August 2020 - September 2021)</p>
+                            <p><b>Building Simulation 2021: 17th Conference of IBPSA</b> </p>
                             <p>1-3 September 2021, Bruges (Belgium)</p>
                         </li>
                         <li>
-                            <p><b>Building Simulation and Optimization 2020</b> (September 2019 - September 2020)</p>
+                            <p><b>Building Simulation and Optimization 2020</b> </p>
                             <p>21-22 September 2020, Loughborough (UK)</p>
                         </li>
                         <li>
-                            <p><b>Building Simulation 2019: 16th Conference of IBPSA</b> (August 2018 - September 2019)</p>
+                            <p><b>Building Simulation 2019: 16th Conference of IBPSA</b> </p>
                             <p>2-4 September 2019, Rome (Italy)</p>
                         </li>
                     </ul>
@@ -35,7 +39,8 @@ function Training() {
                     <h3>Workshops</h3>
                     <ul>
                         <li>
-                            <p><b>Bolded Text Here</b> (Date Here)</p>
+                            <p><b>Exploring Structures and Features of Research Articles</b> (2019)</p>
+                            <p>Loughborough University (UK)</p>
                         </li>
                     </ul>
                 </div>
