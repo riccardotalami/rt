@@ -38,7 +38,7 @@ function Service() {
                     <h3>Associations</h3>
                     <ul>
                         <li>
-                            <p><b>Committee Member - Electonic Communications for International Building Performance Simulation Association (IBPSA-Singapore)</b> (2024 - Current)</p>
+                            <p><b>Committee Member - Electronic Communications for International Building Performance Simulation Association (IBPSA-Singapore)</b> (2024 - Current)</p>
                         </li>
                         <li>
                             <p><b>Professional Committee - International Building Performance Simulation Association (IBPSA-Singapore)</b> (2024 - Current)</p>

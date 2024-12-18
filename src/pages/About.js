@@ -44,7 +44,7 @@ function About() {
                 <div className="individual_about_section">
                     <h3>Memberships</h3>
                     <ul>
-                        <li>IBPSA-Singapore Committee Member - Electonic Communications</li>
+                        <li>IBPSA-Singapore Committee Member - Electronic Communications</li>
                         <li>Professional Committee for International Building Performance Simulation Association (IBPSA-Singapore)</li>
                     </ul>
                 </div>
