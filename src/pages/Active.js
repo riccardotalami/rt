@@ -1,7 +1,7 @@
 import React from 'react'
 import NavBar from '../components/NavBar'
 import './Active.css'
-import PlaceHolderImage from './../components/PlaceHolderImage.jpg'
+import Concordia_University from './../components/Concordia_University.png'
 
 function Active() {
     return (
@@ -15,15 +15,14 @@ function Active() {
                     <div>
                         <ul>
                             <li>
-                                <p>National University of Singapore ETH STH STH STH</p>
-                                <p>Project ...</p>
-                                <p>Person ...</p>
-                                <p>Topic ...</p>
+                                <p><b>Concordia University in Montreal (Canada)</b></p>
+                                <p>Project: Decomposition approaches in building design</p>
+                                <p>Contact: Nima Bonyadi, PhD Research Assistant</p>
                             </li>
                         </ul>
                     </div>
                     <div>
-                        <img src={PlaceHolderImage} />
+                        <img src={Concordia_University} />
                     </div>
                 </div>
             </div>
