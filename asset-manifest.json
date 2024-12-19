@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rt/static/css/main.e19687d3.css",
-    "main.js": "/rt/static/js/main.fbc6a86e.js",
+    "main.css": "/rt/static/css/main.9aaa7003.css",
+    "main.js": "/rt/static/js/main.706162cd.js",
     "static/media/image.jpg": "/rt/static/media/image.2d093266ab1817ce04f6.jpg",
     "static/media/OTSToutput_example2.png": "/rt/static/media/OTSToutput_example2.0ad7b46d87573c525439.png",
     "static/media/sensorImage.png": "/rt/static/media/sensorImage.256369d360ece3c7e200.png",
@@ -9,6 +9,7 @@
     "static/media/Screenshot 2023-10-18 120757.jpg": "/rt/static/media/Screenshot 2023-10-18 120757.640d0aca178493744a53.jpg",
     "static/media/Screenshot 2023-10-18 130925.jpg": "/rt/static/media/Screenshot 2023-10-18 130925.e206d3655e9f37ca5ab3.jpg",
     "static/media/Concordia_University.png": "/rt/static/media/Concordia_University.5579196ac3d13894855d.png",
+    "static/media/Sequential_approach.jpg": "/rt/static/media/Sequential_approach.3e6a8dd40df65fe13384.jpg",
     "static/media/Design_process.png": "/rt/static/media/Design_process.11158bce8f330feafa26.png",
     "static/media/CV_Industry_Feb2024_RT.pdf": "/rt/static/media/CV_Industry_Feb2024_RT.85b1f43463b8afbd9284.pdf",
     "static/media/SquareLogo2-removebg-preview.png": "/rt/static/media/SquareLogo2-removebg-preview.9c2a846e628a424c5993.png",
@@ -18,11 +19,11 @@
     "static/media/Image1.png": "/rt/static/media/Image1.e108e0d588e2438dd587.png",
     "static/media/PlaceHolderImage.jpg": "/rt/static/media/PlaceHolderImage.f791c3219e575bd859c8.jpg",
     "index.html": "/rt/index.html",
-    "main.e19687d3.css.map": "/rt/static/css/main.e19687d3.css.map",
-    "main.fbc6a86e.js.map": "/rt/static/js/main.fbc6a86e.js.map"
+    "main.9aaa7003.css.map": "/rt/static/css/main.9aaa7003.css.map",
+    "main.706162cd.js.map": "/rt/static/js/main.706162cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.e19687d3.css",
-    "static/js/main.fbc6a86e.js"
+    "static/css/main.9aaa7003.css",
+    "static/js/main.706162cd.js"
   ]
 }
