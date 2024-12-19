@@ -52,15 +52,15 @@ const ProjectsPageData = [
         ]
     },
     {
-        "date": "January 2019 - February 2022",
+        "date": "2019 - 2022",
         "location": "Loughborough, United Kingdom",
-        "title": "The sequential whole-building design approach for building performance",
+        "title": "The sequential design optimization of building performance",
         "subtitle": "Loughborough University, School of Architecture, Building and Civil Engineering",
-        "about": "The research develops a novel whole-building design approach in the multi-objective optimization of building geometry, fabric, HVAC systems, and controls to support the high-performance building design process. It evaluates its effectiveness, reliability, and computational efficiency.",
+        "about": "The research proposes a sequential approach for multi-objective design optimization of building geometry, fabric, HVAC system and controls, advancing performance-based building design. It evaluates its effectiveness, reliability, and efficiency.",
         "role": "Role: Project Leader",
         "collaboration": "In Collaboration With: Prof. <a href='https://www.lboro.ac.uk/departments/abce/staff/jonathan-wright/' target='_blank'>Jonathan Wright</a> and Dr. <a href='https://www.engineering.columbia.edu/faculty/bianca-howard' target='_blank'>Bianca Howard</a>",
         "data": [
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
+            { 'text': 'Performance-based building design integrates architectural elements, HVAC systems, and operational controls, requiring collaboration among diverse stakeholders. This process is complex due to multidisciplinary interactions, conflicting objectives, and numerous constraints, necessitating the evaluation of many design options. To address these challenges, optimization approaches are essential for identifying well performing designs while reducing computational demands.' },
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
             { 'image': PlaceHolderImage },
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
