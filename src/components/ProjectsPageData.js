@@ -1,6 +1,7 @@
 import PlaceHolderImage from './PlaceHolderImage.jpg'
 
 import RiccardoImage from './Image1.png'
+import Sequential_approach from './Sequential_approach.jpg'
 
 const ProjectsPageData = [
     {
@@ -62,7 +63,7 @@ const ProjectsPageData = [
         "data": [
             { 'text': 'Performance-based building design integrates architectural elements, HVAC systems, and operational controls, requiring collaboration among diverse stakeholders. This process is complex due to multidisciplinary interactions, conflicting objectives, and numerous constraints, necessitating the evaluation of many design options. To address these challenges, optimization approaches are essential for identifying well performing designs while reducing computational demands.' },
             { 'text': 'This research introduces a sequential approach to multi-objective design optimization of building geometry, fabric, HVAC systems, and controls, aimed at advancing performance-based building design. Unlike conventional methods that optimize all variables simultaneously, this approach sequentially integrates building elements, leveraging their interdependencies. Each stage identifies and passes Pareto-optimal solutions to the next, discarding sub-optimal ones. ' },
-            { 'image': PlaceHolderImage },
+            { 'image': Sequential_approach },
             { 'text': 'A benchmarking framework was developed to evaluate the sequential design optimization approach against a full factorial search and the NSGA-II algorithm in terms of global optima, computational performance, and solution quality. The reliability of the sequential approach was tested across four problem scales (874 to 1,036,800 design options) and extended to four large-scale variants (up to 4,147,200 options) incorporating different internal loads and weather conditions. Twenty-four configurations of the sequential search were assessed, varying starting points, grouping strategies, and initialization settings.' },
             { 'text': 'The proposed two-stage, field-grouped sequential search, applied to building geometry, fabric, HVAC systems, and controls, consistently identified the same Pareto-optimal solutions as a full factorial search across different problem scales, demonstrating 100% reliability and effectiveness. This approach achieved a 91.2% reduction in function evaluations compared to a full factorial search, highlighting its computational efficiency. Furthermore, in comparison with the widely used NSGA-II algorithm, the sequential approach outperformed in identifying global optima.' },
             { 'image': PlaceHolderImage },
