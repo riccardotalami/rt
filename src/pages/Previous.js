@@ -3,7 +3,7 @@ import NavBar from '../components/NavBar'
 import './Previous.css'
 import PlaceHolderImage from './../components/PlaceHolderImage.jpg'
 import NUS_logo from './../components/NUS_logo.jpg'
-import LB_logo from './../components/LB_logo.jpg'
+import LB_logo from './../components/LB_logo.png'
 import SUTD_logo from './../components/SUTD_logo.jpg'
 import UCB_logo from './../components/UCB_logo.png'
 
