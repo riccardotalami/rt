@@ -29,7 +29,7 @@ function Previous() {
                         <img src={NUS_logo} />
                     </div>
                 </div>
-                <div className="individual_previous_section">
+                <div className="individual_previous_section"> 
                     <div>
                         <ul>
                             <li>
