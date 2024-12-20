@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rt/static/css/main.57645aee.css",
-    "main.js": "/rt/static/js/main.34cfc0ae.js",
+    "main.css": "/rt/static/css/main.d7d5223c.css",
+    "main.js": "/rt/static/js/main.de929abf.js",
     "static/media/image.jpg": "/rt/static/media/image.2d093266ab1817ce04f6.jpg",
     "static/media/OTSToutput_example2.png": "/rt/static/media/OTSToutput_example2.0ad7b46d87573c525439.png",
     "static/media/green_facades_framework.jpg": "/rt/static/media/green_facades_framework.e9774c80d661d577dfcf.jpg",
@@ -28,11 +28,11 @@
     "static/media/LB_logo.png": "/rt/static/media/LB_logo.8055168d6bebffa73708.png",
     "static/media/PlaceHolderImage.jpg": "/rt/static/media/PlaceHolderImage.f791c3219e575bd859c8.jpg",
     "index.html": "/rt/index.html",
-    "main.57645aee.css.map": "/rt/static/css/main.57645aee.css.map",
-    "main.34cfc0ae.js.map": "/rt/static/js/main.34cfc0ae.js.map"
+    "main.d7d5223c.css.map": "/rt/static/css/main.d7d5223c.css.map",
+    "main.de929abf.js.map": "/rt/static/js/main.de929abf.js.map"
   },
   "entrypoints": [
-    "static/css/main.57645aee.css",
-    "static/js/main.34cfc0ae.js"
+    "static/css/main.d7d5223c.css",
+    "static/js/main.de929abf.js"
   ]
 }
