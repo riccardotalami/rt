@@ -2,6 +2,8 @@ import PlaceHolderImage from './PlaceHolderImage.jpg'
 
 import RiccardoImage from './Image1.png'
 import Sequential_approach from './Sequential_approach.jpg'
+import green_facades from './green_facades.jpg'
+import green_facades_framework from './green_facades_framework.jpg'
 
 const ProjectsPageData = [
     {
@@ -73,19 +75,20 @@ const ProjectsPageData = [
         ]
     },
     {
-        "date": "June 2023 - Current",
+        "date": "2023 - 2024",
         "location": "Singapore",
-        "title": "Innovative building envelope systems",
-        "subtitle": "National University of Singapore (NUS), College of Design and Engineering, Department of the Built Environment",
-        "about": "The research provides a framework for the integration of vertical greenery systems (VGS), heat-reflective paints, and façade shading systems.",
+        "title": "Exploring novel cooling technologies for building façades",
+        "subtitle": "National University of Singapore (NUS)",
+        "about": "The research provides a framework for the synergistic integration of vertical greenery systems (VGS), heat-reflective paints, and façade shading systems.",
         "role": "Role: Collaborator",
+        "collaboration": "In Collaboration with: Iqbal Shah, PhD student at NUS",
         "data": [
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'image': RiccardoImage },
+            { 'text': 'The escalating effects of global warming, driven in part by anthropogenic activities, amplify the challenges posed by climate change. This, in turn, exacerbates the urban heat island (UHI) phenomenon, where metropolitan areas experience significantly warmer temperatures than their rural surroundings. This vicious cycle not only places additional strain on urban infrastructure, but also intensifies energy demands.' },
+            { 'text': 'Building façades, integral to a structure thermal performance, emerge as a crucial intervention point in this scenario. Delving into the synergistic potential of various façade technologies, such as shading systems, heat-reflective paints, and vertical greenery systems to pioneer innovative façade cooling solutions, leading to innovative cooling solutions that enhance energy efficiency and fortify urban resilience.' },
+            { 'image': green_facades },
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
             { 'text': '<link: "www.google.com" This link> will take you to the website SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'image': PlaceHolderImage },
+            { 'image': green_facades_framework },
         ]
     },
     {
@@ -99,7 +102,7 @@ const ProjectsPageData = [
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
             { 'image': PlaceHolderImage },
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
+            { 'text': 'This research looks into the synergistic potential of various façade technologies, such as shading systems, heat-reflective paints, and vertical greenery systems to pioneer innovative façade cooling solutions that enhance energy efficiency and urban resilience. ' },
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
             { 'image': PlaceHolderImage },
         ]
