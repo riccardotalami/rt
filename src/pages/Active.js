@@ -59,7 +59,7 @@ function Active() {
                     <div>
                         <ul>
                             <li>
-                                <p><b>Singapore-ETH Centre (Singapore)</b></p>
+                                <p><b>Singapore-ETH Centre (Singapore)</b></p> 
                                 <p>Project: The impact of thermal inertia in mitigating energy disruptions</p>
                                 <p>Contact: Dr. Andrea Bartolini, Postdoctoral Researcher</p>
                             </li>
