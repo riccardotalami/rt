@@ -17,7 +17,7 @@ function Active() {
                     <div>
                         <ul>
                             <li>
-                                <p><b>Concordia University in Montreal (Canada)</b></p>
+                                <p><b>Concordia University (Canada)</b></p>
                                 <p>Project: Problem decomposition approaches in Building Design</p>
                                 <p>Contact: Nima Bonyadi, PhD Research Assistant</p>
                             </li>

@@ -33,7 +33,7 @@ function Previous() {
                     <div>
                         <ul>
                             <li>
-                                <p>Loughborough University (UK)</p>
+                                <p><b>Loughborough University (UK) </b></p>
                                 <p>Project: The sequential design optimization of building performance</p>
                                 <p>Contact: Prof.Jonathan Wright and Dr. Bianca Howard</p>
                             </li>
@@ -47,7 +47,7 @@ function Previous() {
                     <div>
                         <ul>
                             <li>
-                                <p>Singapore University of Technology and Design (Singapore)</p>
+                                <p><b>Singapore University of Technology and Design (Singapore)</b></p>
                                 <p>Project: Comparing laboratory and field studies of occupant lighting experience, Subjective and measured evidence for residential lighting metrics in the tropics, Radiant Cooling Systems in the Tropics, Sustainable Futures: Cooling </p>
                                 <p>Contact: Dr. J. Alstan Jakubiec</p>
                             </li>
@@ -61,7 +61,7 @@ function Previous() {
                     <div>
                         <ul>
                             <li>
-                                <p>University of California Berkeley (US)</p>
+                                <p><b>University of California Berkeley (US)</b></p>
                                 <p>Project: Optimizing Radiant Systems for Energy Efficiency and Comfort </p>
                                 <p>Contact: Fred Bauman </p>
                             </li>
