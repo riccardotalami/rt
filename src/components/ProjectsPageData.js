@@ -5,18 +5,19 @@ import Sequential_approach from './Sequential_approach.jpg'
 
 const ProjectsPageData = [
     {
-        "date": "June 2023 - Current",
+        "date": "2024 - Current",
         "location": "Singapore",
-        "title": "Innovative building envelope systems",
-        "subtitle": "National University of Singapore (NUS), College of Design and Engineering, Department of the Built Environment",
-        "about": "The research provides a framework for the integration of vertical greenery systems (VGS), heat-reflective paints, and façade shading systems.",
-        "role": "Role: Collaborator",
+        "title": "AI-driven frameworks for Building Performance Design",
+        "subtitle": "Singapore - ETH Centre",
+        "about": "The research develops frameworks for multi-criteria decision marking and quick design explorations in buiding performance design.",
+        "role": "Role: Project Leader",
+        "collaboration": "In Collaboration With: Dr. Alberto Costa",
         "data": [
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'image': RiccardoImage },
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'text': '<link: "www.google.com" This link> will take you to the website SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
+            { 'text': 'This page will be updated once more info become available' },
+            { 'text': 'In progress' },
+            { 'image': PlaceHolderImage },
+            { 'text': 'In progress' },
+            { 'text': 'In progress' },
             { 'image': PlaceHolderImage },
         ]
     },
