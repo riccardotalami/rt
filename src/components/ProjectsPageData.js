@@ -5,6 +5,8 @@ import Sequential_approach from './Sequential_approach.jpg'
 import green_facades from './green_facades.jpg'
 import green_facades_framework from './green_facades_framework.jpg'
 import sensors from './sensors.png'
+import setpoints_1 from './setpoints_1.png'
+import setpoints_2 from './setpoints_2.jpg'
 
 const ProjectsPageData = [
     {
@@ -85,7 +87,7 @@ const ProjectsPageData = [
         "collaboration": "In Collaboration with: Iqbal Shah, PhD student at NUS",
         "data": [
             { 'text': 'The escalating effects of global warming, driven in part by anthropogenic activities, amplify the challenges posed by climate change. This, in turn, exacerbates the urban heat island (UHI) phenomenon, where metropolitan areas experience significantly warmer temperatures than their rural surroundings. This vicious cycle not only places additional strain on urban infrastructure, but also intensifies energy demands.' },
-            { 'text': 'Building façades, integral to a structure thermal performance, emerge as a crucial intervention point in this scenario. Delving into the synergistic potential of various façade technologies, such as shading systems, heat-reflective paints, and vertical greenery systems to pioneer innovative façade cooling solutions, leading to innovative cooling solutions that enhance energy efficiency and fortify urban resilience.' },
+            { 'text': 'Delving into the synergistic potential of various façade technologies, such as shading systems, heat-reflective paints, and vertical greenery systems to pioneer innovative façade cooling solutions, leading to innovative cooling solutions that enhance energy efficiency and fortify urban resilience.' },
             { 'image': green_facades },
             { 'text': '- Shading on opaque facades alone could reduce cooling loads by 8–28 %.' },
             { 'text': '- Cool paints on opaque facades alone could reduce cooling loads by 10–35 %.' },
@@ -98,32 +100,34 @@ const ProjectsPageData = [
         "date": "2023 - 2024",
         "location": "Singapore",
         "title": "Human-centric Indoor Environmental Quality (IEQ) sensing",
-        "subtitle": "National University of Singapore (NUS), College of Design and Engineering, Department of the Built Environment",
+        "subtitle": "National University of Singapore (NUS)",
         "about": "The research explores optimal positioning of IEQ sensing devices from an occupant-centric perspective in office settings, aiming to identify sensor placements that most accurately reflect the environmental conditions experienced by occupants.",
         "role": "Role: Project Leader",
         "data": [
             { 'text': 'As smart buildings become more prevalent, there has been an increasing interest in understanding building occupants’ needs and preferences. Since occupant satisfaction is related to the indoor environmental quality (IEQ) of buildings, it is crucial to ensure that the indoor environment is comfortable, healthy, and conducive to the occupants’ well-being.' },
-            { 'text': 'The research explores optimal positioning of IEQ sensing devices from an occupant-centric perspective in office settings, aiming to identify sensor placements that most accurately reflect the environmental conditions experienced by occupants.' },
+            { 'text': 'This research explores optimal positioning of IEQ sensing devices from an occupant-centric perspective in office settings, aiming to identify sensor placements that most accurately reflect the environmental conditions experienced by occupants.' },
             { 'image': sensors },
-            { 'text': 'This research looks into the synergistic potential of various façade technologies, such as shading systems, heat-reflective paints, and vertical greenery systems to pioneer innovative façade cooling solutions that enhance energy efficiency and urban resilience. ' },
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
+            { 'text': 'In progress ' },
+            { 'text': 'In progress ' },
             { 'image': PlaceHolderImage },
         ]
     },
     {
-        "date": "January 2022 - Current",
+        "date": "2023 - 2024",
         "location": "Singapore",
-        "title": "Dynamic temperature setpoints and setbacks under weather and occupancy variability",
-        "subtitle": "National University of Singapore (NUS), College of Design and Engineering, Department of the Built Environment",
+        "title": "Optimizing HVAC temperature setpoints for energy efficiency",
+        "subtitle": "National University of Singapore (NUS)",
         "about": "The research evaluates the energy-saving potential of dynamically adjusting room temperature setpoints and setbacks of HVAC systems based on varying outdoor weather and indoor occupancy conditions.",
         "role": "Role: Project Leader",
         "data": [
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'image': PlaceHolderImage },
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'image': PlaceHolderImage },
+            { 'text': 'HVAC systems often operate based on fixed schedules that do not match actual building occupancy. This is further amplified by the growing workplace flexibility and remote working trends triggered by the COVID-19 pandemic. With more flexible working hours, unoccupied periods might increase and occupancy rates might drop. ' },
+            { 'text': 'This research evaluates the energy-saving potential of dynamically adjusting room temperature setpoints and setbacks of HVAC systems based on varying outdoor weather and indoor occupancy conditions' },
+            { 'image': setpoints_1 },
+            { 'text': ' - Fixed setpoint achieves 5.48% energy reduction due to lower occupant heat loads.' },
+            { 'text': ' - Additional 11.80% energy savings are obtained from incorporating fixed setbacks.' },
+            { 'text': ' - Optimal selection of setpoint and setback provides additional 34-38% energy savings.' },
+            { 'text': ' - Below 5°C and above 32°C, lowest and highest setpoint is optimal, respectively.' },
+            { 'image': setpoints_2 },
         ]
     },
     {
