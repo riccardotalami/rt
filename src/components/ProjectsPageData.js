@@ -4,6 +4,7 @@ import RiccardoImage from './Image1.png'
 import Sequential_approach from './Sequential_approach.jpg'
 import green_facades from './green_facades.jpg'
 import green_facades_framework from './green_facades_framework.jpg'
+import sensors from './sensors.png'
 
 const ProjectsPageData = [
     {
@@ -94,16 +95,16 @@ const ProjectsPageData = [
         ]
     },
     {
-        "date": "September 2022 - Current",
+        "date": "2023 - 2024",
         "location": "Singapore",
-        "title": "Human-centric Indoor Environmental Quality (IEQ)",
+        "title": "Human-centric Indoor Environmental Quality (IEQ) sensing",
         "subtitle": "National University of Singapore (NUS), College of Design and Engineering, Department of the Built Environment",
         "about": "The research explores optimal positioning of IEQ sensing devices from an occupant-centric perspective in office settings, aiming to identify sensor placements that most accurately reflect the environmental conditions experienced by occupants.",
         "role": "Role: Project Leader",
         "data": [
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
-            { 'image': PlaceHolderImage },
+            { 'text': 'As smart buildings become more prevalent, there has been an increasing interest in understanding building occupants’ needs and preferences. Since occupant satisfaction is related to the indoor environmental quality (IEQ) of buildings, it is crucial to ensure that the indoor environment is comfortable, healthy, and conducive to the occupants’ well-being.' },
+            { 'text': 'The research explores optimal positioning of IEQ sensing devices from an occupant-centric perspective in office settings, aiming to identify sensor placements that most accurately reflect the environmental conditions experienced by occupants.' },
+            { 'image': sensors },
             { 'text': 'This research looks into the synergistic potential of various façade technologies, such as shading systems, heat-reflective paints, and vertical greenery systems to pioneer innovative façade cooling solutions that enhance energy efficiency and urban resilience. ' },
             { 'text': 'SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here SomeText Here ' },
             { 'image': PlaceHolderImage },
