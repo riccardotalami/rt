@@ -16,7 +16,7 @@ const ProjectsPageData = [
         "subtitle": "Singapore - ETH Centre, National University of Singapore (NUS)",
         "about": "The research develops frameworks for multi-criteria decision marking and quick design explorations in buiding performance design",
         "role": "Role: Project Leader",
-        "collaboration": "In Collaboration with: Dr. Alberto Costa",
+        "collaboration": "In Collaboration with: Dr. Alberto Costa, Senior Researcher at Singapore-ETH Centre, Prof. Rudi Stouffs, Assoc. Professor at NUS, Prof. Clayton Miller, Assoc. Professor at NUS.",
         "data": [
             { 'text': 'This page will be updated once more info become available' },
             { 'text': 'In progress' },
@@ -137,7 +137,7 @@ const ProjectsPageData = [
         "subtitle": "Loughborough University",
         "about": "The research proposes a sequential approach for multi-objective design optimization of building geometry, fabric, HVAC system and controls, advancing performance-based building design. It evaluates its effectiveness, reliability, and efficiency.",
         "role": "Role: Project Leader",
-        "collaboration": "In Collaboration with: Prof. Jonathan Wright and Dr. Bianca Howard",
+        "collaboration": "In Collaboration with: Prof. Jonathan Wright, Loughborough University, and Dr. Bianca Howard, Columbia University.",
         "data": [
             { 'text': 'Performance-based building design integrates architectural elements, HVAC systems, and operational controls, requiring collaboration among diverse stakeholders. This process is complex due to multidisciplinary interactions, conflicting objectives, and numerous constraints, necessitating the evaluation of many design options.' },
             { 'text': 'This research introduces a sequential approach to multi-objective design optimization of building geometry, fabric, HVAC systems, and controls, aimed at advancing performance-based building design. Unlike conventional methods that optimize all variables simultaneously, this approach sequentially integrates building elements, leveraging their interdependencies. Each stage identifies and passes Pareto-optimal solutions to the next, discarding sub-optimal ones. ' },
@@ -156,7 +156,7 @@ const ProjectsPageData = [
         "subtitle": "Singapore University of Technology and Design (SUTD)",
         "about": "The research investigates if laboratory conclusions related to visual discomfort and lighting quality are applicable to real building conditions. This is achieved by comparing 40 laboratory post-occupancy evaluation responses to 40 field responses in actual office workspaces in Singapore.",
         "role": "Role: Collaborator",
-        "collaboration": "In Collaboration with: Dr. J. Alstan Jakubiec",
+        "collaboration": "In Collaboration with: Dr. J. Alstan Jakubiec, Assist. Professor at Toronto University.",
         "data": [
             { 'text': 'This page will be updated once more info become available' },
             { 'text': 'In progress' },
@@ -173,7 +173,7 @@ const ProjectsPageData = [
         "subtitle": "Singapore University of Technology and Design (SUTD)",
         "about": "The research presents a comprehensive study methodology to craft statistically-valid subjective models based on predictive lighting simulation data. This is done by comparing measured and simulated lighting levels in 17 residential housing units in Singapore against the subjective opinions of 35 participants who reside in the units.",
         "role": "Role: Collaborator",
-        "collaboration": "In Collaboration with: Dr. J. Alstan Jakubiec",
+        "collaboration": "In Collaboration with: Dr. J. Alstan Jakubiec, Assist. Professor at Toronto University.",
         "data": [
             { 'text': 'This page will be updated once more info become available' },
             { 'text': 'In progress' },
@@ -190,7 +190,7 @@ const ProjectsPageData = [
         "subtitle": "Singapore University of Technology and Design (SUTD)",
         "about": "The research aims to support early-design decisions when integrating radiant cooling systems in architectural design. It identifies key design parameters influencing energy consumption, system operation, and thermal comfort in the tropics, providing guidelines for focusing design efforts on impactful variables.",
         "role": "Role: Project Leader",
-        "collaboration": "In Collaboration with: Dr. J. Alstan Jakubiec",
+        "collaboration": "In Collaboration with: Dr. J. Alstan Jakubiec, Assist. Professor at Toronto University",
         "data": [
             { 'text': 'Given the strong influence that architectural design has on radiant systems design, it is necessary to consider their installation from the beginning of the design process, integrated and balanced with the proposed formal design features, internal loads, and external loads throughout the conceptual design phases.' },
             { 'text': 'This research aims to support early-design decisions and simplify the design scenario in order to focus a proportionate amount of design effort on the most influential design variables when integrating radiant cooling systems in the architectural design related to energy consumption, thermal comfort and system operation in the tropics using a sensitivity analysis approach' },
@@ -207,7 +207,7 @@ const ProjectsPageData = [
         "subtitle": "Singapore University of Technology and Design (SUTD)",
         "about": "The project investigates human behaviors through long-term observational field studies in commercial and residential spaces, analyzing air-conditioning, window shading, and lighting use. The findings inform predictive models and influence building design decisions.",
         "role": "Role: Collaborator",
-        "collaboration": "In Collaboration with: Dr. J. Alstan Jakubiec",
+        "collaboration": "In Collaboration with: Dr. J. Alstan Jakubiec, Assist. Professor at Toronto University",
         "data": [
             { 'text': 'This page will be updated once more info become available' },
             { 'text': 'In progress' },

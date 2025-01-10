@@ -30,7 +30,7 @@ function Education() {
                     <p className='date'>2011 - 2014</p>
                     <p className='location'>Venice, Italy</p>
                     <h3>Bachelor of Science in Architecture</h3>
-                    <h4>Università Iuav di Venezia (IUAV), Architecture and Innovation</h4>
+                    <h4>Università Iuav di Venezia (IUAV), Architectural Science</h4>
                 </div>
             </div>
         </div>
