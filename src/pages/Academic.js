@@ -23,7 +23,7 @@ function Academic() {
                             <p><b>Research Fellow</b> (2023 - 2024)</p>
                             <p>Department of the Built Environment, College of Design and Engineering</p>
                             <p>National University of Singapore - NUS (Singapore)</p>
-                            <p>Duties: <span className='focus'>Led a team for research projects on Temperature Setpoints and Indoor Environmental Quality, and the development of online tools for practical appplications. Collaborated on research projects related to Building Envelope Systems. Supervised  final year students for research thesis and visiting scholars. Developed and published scientific papers. Managed the procurement for project expenses.</span></p>
+                            <p>Duties: <span className='focus'>Led a team for research projects on Temperature Setpoints and Indoor Environmental Quality, and the development of online tools for practical applications. Collaborated on research projects related to Building Envelope Systems. Supervised  final year students for research thesis and visiting scholars. Developed and published scientific papers. Managed the procurement for project expenses.</span></p>
                         </li>
                         <li>
                             <p><b>Doctoral Researcher</b> (2019 - 2022)</p>

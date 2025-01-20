@@ -27,7 +27,7 @@ function About() {
                         <li>Performance-based Building and Urban Design</li>
                         <li>Building Performance Simulation and Optimization</li>
                         <li>Computational Design</li>
-                        <li>Artifical Intelligence</li>
+                        <li>Artificial Intelligence</li>
                         <li>Numerical Optimization</li>
                         <li>Early-design Exploration</li>
                         <li>Multi-criteria Decision Making</li>

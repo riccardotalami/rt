@@ -48,6 +48,8 @@ function Active() {
                                 <p><b>National University of Singapore (Singapore)</b></p>
                                 <p>Project: The role of Archetypes in Urban Building Energy Modelling</p>
                                 <p>Contact: Wanyu Pei, PhD student</p>
+                                <p>Project: Urban Digital Twin for Greenhouse Gas Emissions </p>
+                                <p>Contact: Pradeep Alva, PhD student</p>
                             </li>
                         </ul>
                     </div>

@@ -19,7 +19,7 @@ function Tools() {
                     <div className="title_description">
                         <h3>Indoor Environmental Quality sensor package v.2.0 (2023 - 2024)</h3>
                         <p>
-                            Designed and assembled 40 Arduino-based sensor packages that monitor 9 Indoor Environmental Quality metrics continuously: Carbon dioxide, Particulate matter, Total volatile organic compound, Illuminance, Temperature, Humidity, and Sound continuously. Protoyped and 3D printed 40 sensor enclosures with reduced dimensions. Introduced fast-charging battery and Wi-Fi connection.
+                            Designed and assembled 40 Arduino-based sensor packages that monitor 9 Indoor Environmental Quality metrics continuously: Carbon dioxide, Particulate matter, Total volatile organic compound, Illuminance, Temperature, Humidity, and Sound continuously. Prototyped and 3D printed 40 sensor enclosures with reduced dimensions. Introduced fast-charging battery and Wi-Fi connection.
                         </p>
                         <div className="tool_image">
                             <img src={SensorImage} alt="" />
@@ -30,7 +30,7 @@ function Tools() {
                     <div className="title_description">
                         <h3>Indoor Environmental Quality sensor package v.1.0 (2023 - 2024)</h3>
                         <p>
-                            Designed and assembled 20 Raspberry-pi-based sensor packages that monitor 9 Indoor Environmental Quality metrics continuously: Carbon dioxide, Particulate matter, Total volatile organic compound, Illuminance, Temperature, Humidity, and Sound. Protoyped and 3D printed 20 boltless sensor enclosures for easy assembly and maintenance.
+                            Designed and assembled 20 Raspberry-pi-based sensor packages that monitor 9 Indoor Environmental Quality metrics continuously: Carbon dioxide, Particulate matter, Total volatile organic compound, Illuminance, Temperature, Humidity, and Sound. Prototyped and 3D printed 20 boltless sensor enclosures for easy assembly and maintenance.
                         </p>
                         <div className="tool_image">
                             &nbsp;

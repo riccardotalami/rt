@@ -5,8 +5,8 @@ import GoogleIcon from '../components/GoogleIcon'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faClock, faEnvelope, faFileLines } from '@fortawesome/free-regular-svg-icons'
 import { faResearchgate, faLinkedin, faOrcid } from '@fortawesome/free-brands-svg-icons'
-import RiccardoResume from './../components/riccardo_resume.pdf'
-import RiccardoResumeIndustry from './../components/CV_Industry_Feb2024_RT.pdf'
+import RiccardoResume from './../components/Riccardo_Talami_CV_2025.pdf'
+import RiccardoResumeIndustry from './../components/Riccardo_Talami_Resume_2025.pdf'
 import RiccardoPic from './../components/image.jpg'
 import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
 import MyMap from '../components/MyMap'
@@ -39,13 +39,13 @@ function Home() {
                             <a href={RiccardoResumeIndustry} target="_blank" rel="noopener noreferrer">
                                 <FontAwesomeIcon icon={faFileLines} />
                             </a>
-                            <p>Academia CV</p>
+                            <p>Curriculum Vitae</p>
                         </div>
                         <div className='each_icon'>
                             <a href={RiccardoResume} target="_blank" rel="noopener noreferrer">
                                 <FontAwesomeIcon icon={faFileLines} />
                             </a>
-                            <p>Industry CV</p>
+                            <p>Resume</p>
                         </div>
                         <div className='each_icon'>
                             <a href="https://scholar.google.com/citations?user=EmFyzowAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer">
