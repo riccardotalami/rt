@@ -12,7 +12,7 @@ function About() {
             <div className="About_Sections">
                 <div className="individual_about_section">
                     <h3>Intro</h3>
-                    <p className='intro_paragraph'>Welcome! I am <b>Riccardo Talami, PhD,</b> a Research Fellow with a joint appointment at the <b>National University of Singapore (NUS)</b> – Department of Architecture, and at the <b>Singapore-ETH Centre (SEC).</b> </p>
+                    <p className='intro_paragraph'>Welcome! I am <b>Riccardo Talami, PhD,</b> a Research Fellow with a joint appointment at the <b>National University of Singapore (NUS)</b> - Department of Architecture, and at the <b>Singapore-ETH Centre (SEC).</b> </p>
                     <p className='intro_paragraph'>My research lies at the intersection of <b>Building Science</b>, <b>Architecture</b>, <b>Engineering</b>, and <b>Operations Research.</b></p>
                     <p className='intro_paragraph'>My main research areas include <b>Performance-based Building and Urban Design</b>, <b>Building Performance Simulation and Optimization</b>, and <b>Sustainable and Integrated Building Design.</b></p>
                     <p className='intro_paragraph'>My research outcomes are mainly based on original research conducted via <b>computer simulations, laboratory and field studies.</b> </p>

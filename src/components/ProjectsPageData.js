@@ -4,7 +4,7 @@ import RiccardoImage from './Image1.png'
 import Sequential_approach from './Sequential_approach.jpg'
 import green_facades from './green_facades.jpg'
 import green_facades_framework from './green_facades_framework.jpg'
-import sensors from './sensors.png'
+import sensors from './Sensors.png'
 import setpoints_1 from './setpoints_1.png'
 import setpoints_2 from './setpoints_2.jpg'
 
