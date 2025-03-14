@@ -52,6 +52,10 @@ function Service() {
                     <h3>Presentations</h3>
                     <ul>
                         <li>
+                            <p><b>Hierarchical decomposition approaches for building design </b> (2025)</p>
+                            <p> BUDS Research Lab at the National University of Singapore (Singapore)</p>
+                        </li>
+                        <li>
                             <p><b>Performance-based building and urban design</b> (2024)</p>
                             <p> BUDS Research Lab at the National University of Singapore (Singapore)</p>
                         </li>

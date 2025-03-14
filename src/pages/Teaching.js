@@ -14,6 +14,11 @@ function Teaching() {
                     <h3>Courses</h3>
                     <ul>
                         <li>
+                            <p>BPS5229 Data Science for the Built Environment</p>
+                            <p>Role: Teaching Assistant <span className="focus">(2025)</span></p>
+                            <p>National University of Singapore - NUS (Singapore)</p>
+                        </li>
+                        <li>
                             <p>Department of Architecture</p>
                             <p>Role: M.Arch. Dissertation Invited Guest Reviewer <span className="focus">(2024)</span></p>
                             <p>National University of Singapore - NUS (Singapore)</p>

@@ -78,6 +78,40 @@ const ProjectsPageData = [
         ]
     },
     {
+        "date": "2024 - Current",
+        "location": "Singapore",
+        "title": "Whole life carbon assessment of urban building stock",
+        "subtitle": "Singapore - ETH Centre, National University of Singapore (NUS)",
+        "about": "The research proposes a framework for conducting city-scale WLCA, integrating both embodied and operational carbon assessments to evaluate the circularity potential of urban building stock",
+        "role": "Role: Collaborator",
+        "collaboration": "In Collaboration with: Pradeep Alva, PhD student at NUS and Researcher at Singapore-ETH Centre",
+        "data": [
+            { 'text': 'This page will be updated once more info become available' },
+            { 'text': 'In progress' },
+            { 'image': PlaceHolderImage },
+            { 'text': 'In progress' },
+            { 'text': 'In progress' },
+            { 'image': PlaceHolderImage },
+        ]
+    },
+    {
+        "date": "2024 - Current",
+        "location": "Singapore",
+        "title": "AI-driven frameworks for urban environments ",
+        "subtitle": "Singapore - ETH Centre, National University of Singapore (NUS)",
+        "about": "The research develops frameworks for urban natural and built environments based on their performance",
+        "role": "Role: Collaborator",
+        "collaboration": "In Collaboration with: Pegah Eshraghi, PhD student at Shahid Beheshti University",
+        "data": [
+            { 'text': 'This page will be updated once more info become available' },
+            { 'text': 'In progress' },
+            { 'image': PlaceHolderImage },
+            { 'text': 'In progress' },
+            { 'text': 'In progress' },
+            { 'image': PlaceHolderImage },
+        ]
+    },
+    {
         "date": "2023 - 2024",
         "location": "Singapore",
         "title": "Exploring novel cooling technologies for building façades",
