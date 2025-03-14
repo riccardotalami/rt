@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rt/static/css/main.58f1dc8e.css",
-    "main.js": "/rt/static/js/main.96093ab0.js",
+    "main.js": "/rt/static/js/main.3b2553ba.js",
     "static/media/image.jpg": "/rt/static/media/image.2d093266ab1817ce04f6.jpg",
     "static/media/OTSToutput_example2.png": "/rt/static/media/OTSToutput_example2.0ad7b46d87573c525439.png",
     "static/media/green_facades_framework.jpg": "/rt/static/media/green_facades_framework.e9774c80d661d577dfcf.jpg",
@@ -10,7 +10,7 @@
     "static/media/Screenshot 2023-10-18 120757.jpg": "/rt/static/media/Screenshot 2023-10-18 120757.640d0aca178493744a53.jpg",
     "static/media/UCB_logo.png": "/rt/static/media/UCB_logo.fae5fd0e6c0fff740b60.png",
     "static/media/setpoints_1.png": "/rt/static/media/setpoints_1.8686ea1e8b79dc67c3fe.png",
-    "static/media/Riccardo_Talami_CV_2025.pdf": "/rt/static/media/Riccardo_Talami_CV_2025.28c5ee4cb843cd63005a.pdf",
+    "static/media/Riccardo_Talami_CV_2025.pdf": "/rt/static/media/Riccardo_Talami_CV_2025.7c360a3777c36043ae9b.pdf",
     "static/media/Riccardo_Talami_Resume_2025.pdf": "/rt/static/media/Riccardo_Talami_Resume_2025.876a13f66b3dd7cbfce7.pdf",
     "static/media/setpoints_2.jpg": "/rt/static/media/setpoints_2.6b0317da42f65f02f46d.jpg",
     "static/media/Screenshot 2023-10-18 130925.jpg": "/rt/static/media/Screenshot 2023-10-18 130925.e206d3655e9f37ca5ab3.jpg",
@@ -29,10 +29,10 @@
     "static/media/PlaceHolderImage.jpg": "/rt/static/media/PlaceHolderImage.f791c3219e575bd859c8.jpg",
     "index.html": "/rt/index.html",
     "main.58f1dc8e.css.map": "/rt/static/css/main.58f1dc8e.css.map",
-    "main.96093ab0.js.map": "/rt/static/js/main.96093ab0.js.map"
+    "main.3b2553ba.js.map": "/rt/static/js/main.3b2553ba.js.map"
   },
   "entrypoints": [
     "static/css/main.58f1dc8e.css",
-    "static/js/main.96093ab0.js"
+    "static/js/main.3b2553ba.js"
   ]
 }
