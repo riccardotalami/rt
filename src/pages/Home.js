@@ -5,8 +5,8 @@ import GoogleIcon from '../components/GoogleIcon'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faClock, faEnvelope, faFileLines } from '@fortawesome/free-regular-svg-icons'
 import { faResearchgate, faLinkedin, faOrcid } from '@fortawesome/free-brands-svg-icons'
-import RiccardoResume from './../components/Riccardo_Talami_CV_2025.pdf'
-import RiccardoResumeIndustry from './../components/Riccardo_Talami_Resume_2025.pdf'
+import RiccardoCV from './../components/Riccardo_Talami_CV_2025.pdf'
+import RiccardoResume from './../components/Riccardo_Talami_Resume_2025.pdf'
 import RiccardoPic from './../components/image.jpg'
 import { faLocationDot } from '@fortawesome/free-solid-svg-icons'
 import MyMap from '../components/MyMap'
@@ -36,7 +36,7 @@ function Home() {
 
                     <div className="links">
                         <div className='each_icon'>
-                            <a href={RiccardoResumeIndustry} target="_blank" rel="noopener noreferrer">
+                            <a href={RiccardoCV} target="_blank" rel="noopener noreferrer">
                                 <FontAwesomeIcon icon={faFileLines} />
                             </a>
                             <p>Curriculum Vitae</p>
