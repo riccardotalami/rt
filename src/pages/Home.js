@@ -78,7 +78,7 @@ function Home() {
                         <div className='Contact_Links'>
                             <p>
                                 <a href="mailto:rtalami@nus.edu.sg">
-                                    <FontAwesomeIcon icon={faEnvelope} /> rtalami@nus.edu.sg
+                                    <FontAwesomeIcon icon={faEnvelope} /> riccardo.talami@ntu.edu.sg
                                 </a>
                             </p>
                             <p>
