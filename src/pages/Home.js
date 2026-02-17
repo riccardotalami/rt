@@ -30,13 +30,16 @@ function Home() {
             </div>
             <div className="Home_Sections">
                 <div className="individual_home_section">
-                    <p className='home_sentences'>Riccardo Talami, PhD is a <b> Research Project Manager</b> and <b>Research Scientist</b> at the <b>Nanyang Technological University, Singapore (NTU)</b> - Energy Research Institute (ERI@N).</p>
-                    <p className='home_sentences'>Riccardo specializes in developing cross-scale computational methods, workflows, frameworks, and tools that transform <b> performance-based building and urban design.</b> His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, efficient, flexible, and climate-resilient built environments.</p>
-                    <p className='home_sentences'>Riccardo is a strong advocate for <b> data-driven </b> building and urban design and operation, leveraging <b>Computational and Artificial Intelligence, Multi-scale Physics-based Modelling, and Numerical Optimization </b> to tackle the challenges of complex built environments at multiple scales: human, building and urban.</p>
+                    <p className='home_sentences'>Riccardo Talami, PhD, MSc, BArch is a <b> Research Project Manager</b> and <b>Research Scientist</b> at the <b>Nanyang Technological University, Singapore (NTU)</b> - Energy Research Institute (ERI@N) where he manages the research initiatives of the Sustainable Built Environment program.</p>
+                    <p className='home_sentences'>Riccardo specializes in:</p>
+                    <p className='home_sentences'>1)<b>DIGITAL TRANSFORMATION: Design + Physics-based Modelling + Computational and Artificial Intelligence + Numerical Optimization</b>: developing scalable data-driven methods, workflows, frameworks, software and tools that transform <b> performance-based building and urban design.</b></p>
+                    <p className='home_sentences'>2)<b>TECHNOLOGICAL TRANSFORMATION: Design + Physics-based Modelling + Technology</b>: developing technologies and products that accelerate the impact of <b>passive and smart buildings</b>.</p>
+                    <p className='home_sentences'>His work empowers building and urban stakeholders to shape sustainable, comfortable, smart, efficient, flexible, and climate-resilient built environments and tackles the challenges of complex built environments at multiple scales: human/individual, room, building, district, and city scale.</p>
+        
 
                     <div className="links">
                         <div className='each_icon'>
-                            <a href={RiccardoCV} target="_blank" rel="noopener noreferrer">
+                            <a href={Riccardo_Talami_CV_2026} target="_blank" rel="noopener noreferrer">
                                 <FontAwesomeIcon icon={faFileLines} />
                             </a>
                             <p>Curriculum Vitae</p>
@@ -82,14 +85,14 @@ function Home() {
                                 </a>
                             </p>
                             <p>
-                                <FontAwesomeIcon icon={faLocationDot} /> 1 College Avenue, CREATE Tower, Singapore 138602
+                                <FontAwesomeIcon icon={faLocationDot} /> 1 Cleantech Loop, CleanTech Park, Singapore 637141
                             </p>
                             <p>
                                 <FontAwesomeIcon icon={faClock} /> Monday to Friday - 9 am to 7 pm
                             </p>
                         </div>
                         <div className='Contact_Location'>
-                            <MyMap location={[1.306789, 103.773740]} address={"1 College Avenue, CREATE Tower, Singapore 138602"} />
+                            <MyMap location={[1.3553221,103.6921525]} address={"1 Cleantech Loop, CleanTech Park, Singapore 637141"} />
                         </div>
                     </div>
                 </div>
