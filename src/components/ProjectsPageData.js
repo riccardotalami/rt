@@ -95,15 +95,15 @@ const ProjectsPageData = [
         ]
     },
     {
-        "date": "2024 - Current",
+        "date": "2024 - 2025",
         "location": "Singapore",
         "title": "AI-driven frameworks for urban environments ",
         "subtitle": "Singapore - ETH Centre, National University of Singapore (NUS)",
-        "about": "The research develops frameworks for urban natural and built environments based on their performance",
+        "about": "The research develops AI-based physics-informed frameworks for urban environments.",
         "role": "Role: Collaborator",
         "collaboration": "In Collaboration with: Pegah Eshraghi, PhD student at Shahid Beheshti University",
         "data": [
-            { 'text': 'This page will be updated once more info become available' },
+            { 'text': 'This research project develops a unified, data-driven methodology to support climate-responsive and human-centered urban design through advanced machine learning and explainable AI. The work addresses a critical gap in urban analytics: while cities generate vast spatial data, planners still lack fast, interpreably predictive tools that translate morphology into actionable design guidance. The project therefore focuses on building scalable AI frameworks that both <b>predict urban performance </b> and <b>explain the underlying drivers</b>, enabling evidence-based decision-making from the early planning stage.' },
             { 'text': 'In progress' },
             { 'image': PlaceHolderImage },
             { 'text': 'In progress' },
